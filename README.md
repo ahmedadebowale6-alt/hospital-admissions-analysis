@@ -54,13 +54,13 @@ The dashboard uses DAX measures for:
 | --- | ---: |
 | Total patient admissions | 1,000 |
 | Average length of stay | 7.46 days |
-| Average treatment cost | 330,277.84 |
+| Average treatment cost | $330,277.84 |
 | Overall 30-day readmission rate | 21.0% |
 | Department with the highest admission volume | Emergency (192 admissions) |
 | Department with the highest readmission rate | Cardiology (27.7%) |
 | Age group with the highest readmission rate | 61+ (37.7%) |
-| Month with the highest readmission rate | October (26.7%) |
-| Department with the highest average treatment cost | ICU (627,742.96) |
+| Month with the highest readmission rate | January 2026 (31.8%; partial month, 22 records). October had the highest rate within 2025 (26.7%). |
+| Department with the highest average treatment cost | ICU ($627,742.96) |
 | Most common patient outcome | Recovered (698 patients) |
 
 ## Recommendations

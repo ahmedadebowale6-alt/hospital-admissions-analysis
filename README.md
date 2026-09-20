@@ -6,6 +6,12 @@ The project uses a 1,000-record hospital admissions dataset and an interactive P
 
 > **Important:** This repository contains an anonymised training dataset with patient IDs only. It should not be treated as real clinical data or used for patient-care decisions.
 
+## Dashboard Preview
+
+![Hospital admissions dashboard preview](dashboard_preview.png)
+
+This static preview is calculated from the project CSV. Open `Dashboard.pbix` in Power BI Desktop to explore the interactive report.
+
 ## Project Objective
 
 To provide hospital management with an accessible dashboard that answers four operational questions:
@@ -90,6 +96,7 @@ The dashboard uses DAX measures for:
 ```text
 hospital-admissions-analysis/
 ├── README.md
+├── dashboard_preview.png
 ├── hospital_admissions.csv
 ├── Dashboard.pbix
 ├── Hospital admission dash.pbix

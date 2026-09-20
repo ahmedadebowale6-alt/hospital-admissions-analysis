@@ -1,0 +1,1001 @@
+Patient_ID,Admission_Date,Discharge_Date,Length_of_Stay,Age,Gender,Department,Diagnosis,Treatment_Cost,Patient_Outcome,Readmission_30_Days,Discharge_Month
+P0001,11/24/2025,11/26/2025,2,4,Male,Pediatrics,COVID-19,152098,Improved,Yes,November
+P0002,8/5/2025,8/6/2025,1,4,Female,Cardiology,Stroke,350495,Recovered,Yes,August
+P0003,8/18/2025,8/28/2025,10,36,Female,Surgery,Fracture,370851,Recovered,No,August
+P0004,5/23/2025,5/26/2025,3,28,Female,ICU,Fracture,614118,Recovered,No,May
+P0005,11/6/2025,11/11/2025,5,6,Male,Pediatrics,Kidney Disease,190284,Referred,No,November
+P0006,5/31/2025,6/14/2025,14,81,Male,Orthopedics,Heart Failure,267400,Recovered,No,June
+P0007,2/10/2025,2/24/2025,14,30,Female,Surgery,Pneumonia,419823,Recovered,No,February
+P0008,7/9/2025,7/15/2025,6,27,Male,Pediatrics,Kidney Disease,211988,Recovered,No,July
+P0009,5/6/2025,5/9/2025,3,60,Female,Neurology,Hypertension,353886,Recovered,No,May
+P0010,4/28/2025,5/12/2025,14,5,Female,Surgery,Stroke,422581,Recovered,No,May
+P0011,12/2/2025,12/10/2025,8,51,Male,Surgery,Kidney Disease,454259,Recovered,No,December
+P0012,10/3/2025,10/8/2025,5,75,Female,Neurology,Diabetes,346484,Deceased,No,October
+P0013,1/25/2025,2/8/2025,14,15,Male,Emergency,Asthma,110969,Recovered,No,February
+P0014,7/15/2025,7/25/2025,10,60,Male,Orthopedics,Kidney Disease,292512,Recovered,No,July
+P0015,5/17/2025,5/30/2025,13,83,Female,Neurology,Kidney Disease,308469,Referred,No,May
+P0016,4/2/2025,4/11/2025,9,14,Male,Surgery,Pneumonia,409117,Recovered,No,April
+P0017,7/11/2025,7/24/2025,13,21,Female,Orthopedics,Malaria,322056,Referred,No,July
+P0018,1/10/2025,1/12/2025,2,47,Male,Surgery,Diabetes,479008,Recovered,No,January
+P0019,9/6/2025,9/20/2025,14,9,Female,ICU,Kidney Disease,639822,Recovered,No,September
+P0020,3/26/2025,3/31/2025,5,68,Male,Surgery,Heart Failure,425461,Improved,No,March
+P0021,7/24/2025,8/4/2025,11,84,Male,Neurology,COVID-19,337839,Recovered,No,August
+P0022,10/11/2025,10/15/2025,4,76,Male,Emergency,Fracture,99305,Recovered,Yes,October
+P0023,2/6/2025,2/15/2025,9,31,Female,Emergency,Stroke,153624,Recovered,No,February
+P0024,8/31/2025,9/13/2025,13,53,Female,Emergency,Malaria,102704,Recovered,No,September
+P0025,1/28/2025,2/8/2025,11,84,Male,ICU,Stroke,582899,Improved,Yes,February
+P0026,4/9/2025,4/13/2025,4,69,Male,Oncology,Malaria,525296,Recovered,Yes,April
+P0027,10/9/2025,10/11/2025,2,7,Male,Pediatrics,Pneumonia,190855,Referred,No,October
+P0028,7/28/2025,8/5/2025,8,62,Female,Emergency,Heart Failure,142565,Recovered,No,August
+P0029,8/21/2025,8/26/2025,5,55,Female,Pediatrics,Pneumonia,215748,Recovered,No,August
+P0030,4/8/2025,4/13/2025,5,28,Female,ICU,Hypertension,645914,Recovered,No,April
+P0031,1/26/2025,2/5/2025,10,62,Male,Oncology,Pneumonia,539615,Referred,Yes,February
+P0032,2/5/2025,2/15/2025,10,9,Male,Pediatrics,COVID-19,150828,Referred,No,February
+P0033,11/1/2025,11/2/2025,1,80,Female,Cardiology,Stroke,406163,Recovered,No,November
+P0034,5/16/2025,5/23/2025,7,17,Male,Pediatrics,Hypertension,159321,Referred,No,May
+P0035,8/23/2025,9/2/2025,10,73,Female,ICU,Diabetes,579602,Recovered,No,September
+P0036,5/6/2025,5/12/2025,6,37,Male,Emergency,Kidney Disease,199280,Recovered,No,May
+P0037,6/3/2025,6/14/2025,11,14,Male,ICU,Heart Failure,587601,Improved,No,June
+P0038,5/25/2025,6/4/2025,10,27,Female,Pediatrics,Heart Failure,146685,Improved,No,June
+P0039,1/27/2025,1/29/2025,2,82,Male,Neurology,Heart Failure,306265,Recovered,Yes,January
+P0040,3/24/2025,4/5/2025,12,57,Male,Orthopedics,Kidney Disease,276057,Recovered,No,April
+P0041,1/19/2025,2/2/2025,14,48,Female,Orthopedics,Hypertension,239410,Recovered,No,February
+P0042,7/3/2025,7/7/2025,4,88,Male,Emergency,Stroke,103473,Improved,No,July
+P0043,3/25/2025,4/7/2025,13,23,Female,Surgery,Stroke,373248,Referred,No,April
+P0044,5/17/2025,5/20/2025,3,90,Female,Cardiology,Fracture,325075,Improved,No,May
+P0045,6/6/2025,6/20/2025,14,30,Male,Emergency,Heart Failure,176511,Recovered,No,June
+P0046,6/29/2025,7/10/2025,11,66,Female,Neurology,Pneumonia,340282,Improved,Yes,July
+P0047,10/25/2025,10/30/2025,5,5,Female,Cardiology,COVID-19,376959,Improved,No,October
+P0048,9/19/2025,9/21/2025,2,50,Male,Surgery,Fracture,394914,Recovered,No,September
+P0049,8/9/2025,8/11/2025,2,86,Female,ICU,Asthma,651678,Recovered,No,August
+P0050,6/17/2025,6/24/2025,7,90,Female,Emergency,Pneumonia,106683,Recovered,Yes,June
+P0051,11/12/2025,11/22/2025,10,39,Female,Neurology,COVID-19,379278,Recovered,Yes,November
+P0052,11/7/2025,11/18/2025,11,42,Male,Oncology,Diabetes,527954,Recovered,No,November
+P0053,5/26/2025,6/4/2025,9,85,Male,Orthopedics,Heart Failure,263933,Referred,Yes,June
+P0054,4/26/2025,5/9/2025,13,26,Male,Emergency,Malaria,96057,Recovered,No,May
+P0055,8/1/2025,8/12/2025,11,74,Male,Emergency,Diabetes,181272,Recovered,No,August
+P0056,8/6/2025,8/10/2025,4,23,Male,Surgery,Diabetes,461214,Recovered,No,August
+P0057,8/22/2025,8/25/2025,3,60,Female,Pediatrics,COVID-19,193259,Referred,No,August
+P0058,9/16/2025,9/23/2025,7,71,Male,Oncology,Heart Failure,490861,Recovered,No,September
+P0059,9/24/2025,10/2/2025,8,81,Female,Emergency,Fracture,147654,Recovered,Yes,October
+P0060,6/13/2025,6/22/2025,9,11,Male,Cardiology,Diabetes,350311,Recovered,No,June
+P0061,8/1/2025,8/8/2025,7,43,Female,Orthopedics,COVID-19,274496,Improved,Yes,August
+P0062,12/23/2025,12/24/2025,1,74,Female,Neurology,Kidney Disease,270772,Improved,No,December
+P0063,10/7/2025,10/20/2025,13,78,Male,Surgery,Asthma,433993,Recovered,Yes,October
+P0064,6/22/2025,7/3/2025,11,87,Male,Surgery,COVID-19,464919,Recovered,Yes,July
+P0065,10/1/2025,10/2/2025,1,51,Male,Orthopedics,Malaria,306900,Recovered,Yes,October
+P0066,4/4/2025,4/5/2025,1,34,Female,Neurology,Asthma,297742,Improved,No,April
+P0067,5/10/2025,5/24/2025,14,11,Female,Oncology,Stroke,568176,Deceased,No,May
+P0068,11/29/2025,12/1/2025,2,84,Male,Cardiology,Stroke,324067,Recovered,Yes,December
+P0069,3/6/2025,3/14/2025,8,86,Male,Cardiology,Pneumonia,348569,Recovered,No,March
+P0070,6/9/2025,6/11/2025,2,75,Male,Cardiology,Diabetes,360888,Referred,No,June
+P0071,10/31/2025,11/12/2025,12,81,Male,Emergency,COVID-19,181382,Recovered,No,November
+P0072,1/22/2025,1/28/2025,6,69,Male,Neurology,Asthma,318571,Recovered,Yes,January
+P0073,9/8/2025,9/10/2025,2,56,Male,ICU,Kidney Disease,653307,Recovered,No,September
+P0074,11/30/2025,12/5/2025,5,79,Female,Surgery,Fracture,440539,Improved,No,December
+P0075,5/6/2025,5/20/2025,14,12,Female,Emergency,Fracture,149087,Recovered,No,May
+P0076,1/15/2025,1/23/2025,8,42,Female,Emergency,COVID-19,117802,Recovered,No,January
+P0077,12/26/2025,12/31/2025,5,72,Female,Cardiology,Kidney Disease,345042,Improved,Yes,December
+P0078,5/4/2025,5/16/2025,12,61,Female,Pediatrics,Stroke,184332,Recovered,Yes,May
+P0079,6/6/2025,6/17/2025,11,75,Female,Neurology,Fracture,342544,Improved,No,June
+P0080,12/26/2025,1/3/2026,8,35,Male,Emergency,Kidney Disease,120217,Recovered,No,January
+P0081,12/20/2025,12/23/2025,3,25,Female,Emergency,Diabetes,153464,Recovered,No,December
+P0082,4/10/2025,4/15/2025,5,30,Female,Neurology,Hypertension,309618,Recovered,Yes,April
+P0083,1/28/2025,2/6/2025,9,38,Male,Pediatrics,Hypertension,136551,Improved,No,February
+P0084,10/21/2025,10/26/2025,5,61,Female,Oncology,Diabetes,514657,Recovered,Yes,October
+P0085,2/3/2025,2/10/2025,7,63,Female,Cardiology,Diabetes,402502,Improved,No,February
+P0086,5/8/2025,5/10/2025,2,72,Female,Surgery,Heart Failure,449471,Recovered,No,May
+P0087,10/29/2025,11/5/2025,7,40,Male,Orthopedics,Stroke,227894,Improved,No,November
+P0088,5/16/2025,5/27/2025,11,11,Female,Emergency,Malaria,112782,Recovered,No,May
+P0089,12/19/2025,12/29/2025,10,61,Male,Emergency,Stroke,120340,Improved,No,December
+P0090,5/16/2025,5/29/2025,13,81,Male,Orthopedics,Heart Failure,325369,Recovered,No,May
+P0091,3/14/2025,3/16/2025,2,8,Female,Emergency,Diabetes,130319,Referred,No,March
+P0092,8/28/2025,9/9/2025,12,39,Male,Pediatrics,COVID-19,155683,Recovered,No,September
+P0093,1/21/2025,1/28/2025,7,42,Male,Orthopedics,Heart Failure,223390,Referred,No,January
+P0094,10/23/2025,10/24/2025,1,23,Female,Oncology,Malaria,555394,Deceased,No,October
+P0095,2/16/2025,2/24/2025,8,45,Female,Neurology,Asthma,312081,Improved,No,February
+P0096,12/22/2025,12/30/2025,8,37,Female,Pediatrics,Diabetes,172488,Recovered,No,December
+P0097,6/11/2025,6/16/2025,5,42,Male,Cardiology,Kidney Disease,421259,Recovered,No,June
+P0098,8/25/2025,9/1/2025,7,7,Female,Emergency,Hypertension,137419,Recovered,No,September
+P0099,4/15/2025,4/20/2025,5,71,Male,Cardiology,Pneumonia,357752,Recovered,No,April
+P0100,6/9/2025,6/18/2025,9,2,Male,Orthopedics,Malaria,232217,Improved,No,June
+P0101,3/2/2025,3/13/2025,11,20,Female,Oncology,Malaria,563926,Improved,No,March
+P0102,8/30/2025,9/3/2025,4,59,Male,Orthopedics,Diabetes,270277,Recovered,No,September
+P0103,5/22/2025,6/4/2025,13,54,Female,Emergency,Heart Failure,193247,Improved,No,June
+P0104,10/28/2025,11/7/2025,10,85,Female,Oncology,Malaria,489476,Recovered,No,November
+P0105,6/14/2025,6/28/2025,14,25,Female,ICU,Hypertension,601300,Recovered,No,June
+P0106,6/12/2025,6/24/2025,12,61,Male,Pediatrics,Malaria,226352,Improved,No,June
+P0107,1/19/2025,1/22/2025,3,65,Female,ICU,Hypertension,613515,Recovered,No,January
+P0108,3/15/2025,3/22/2025,7,84,Female,ICU,Diabetes,579807,Recovered,No,March
+P0109,6/18/2025,7/2/2025,14,87,Female,Surgery,Kidney Disease,419808,Improved,No,July
+P0110,1/19/2025,1/29/2025,10,9,Male,Emergency,Asthma,179705,Deceased,No,January
+P0111,2/20/2025,3/5/2025,13,82,Male,Pediatrics,Fracture,133173,Referred,No,March
+P0112,1/29/2025,2/3/2025,5,46,Male,Neurology,Pneumonia,289080,Recovered,No,February
+P0113,3/31/2025,4/2/2025,2,79,Female,Surgery,Malaria,451226,Recovered,No,April
+P0114,5/11/2025,5/22/2025,11,2,Male,Surgery,Diabetes,430981,Recovered,No,May
+P0115,8/15/2025,8/21/2025,6,76,Female,Emergency,Malaria,145615,Recovered,No,August
+P0116,2/24/2025,2/28/2025,4,49,Male,Orthopedics,Asthma,295341,Recovered,No,February
+P0117,5/21/2025,5/22/2025,1,73,Female,Surgery,Heart Failure,472014,Recovered,Yes,May
+P0118,4/28/2025,5/8/2025,10,46,Male,Emergency,Diabetes,114920,Recovered,No,May
+P0119,11/18/2025,11/29/2025,11,6,Male,Emergency,Diabetes,147779,Recovered,Yes,November
+P0120,6/1/2025,6/7/2025,6,54,Female,Emergency,Kidney Disease,107322,Improved,No,June
+P0121,9/14/2025,9/19/2025,5,22,Female,Emergency,Fracture,198093,Referred,No,September
+P0122,2/28/2025,3/8/2025,8,10,Female,Emergency,Kidney Disease,119571,Improved,No,March
+P0123,7/7/2025,7/9/2025,2,51,Female,Cardiology,COVID-19,390329,Recovered,Yes,July
+P0124,7/15/2025,7/29/2025,14,82,Female,ICU,COVID-19,584201,Recovered,No,July
+P0125,4/24/2025,5/5/2025,11,9,Female,Orthopedics,Diabetes,280852,Recovered,No,May
+P0126,3/13/2025,3/14/2025,1,5,Male,Emergency,Asthma,154569,Recovered,Yes,March
+P0127,8/21/2025,8/27/2025,6,86,Male,ICU,Asthma,661289,Improved,No,August
+P0128,12/2/2025,12/4/2025,2,63,Female,Orthopedics,Malaria,256666,Recovered,Yes,December
+P0129,5/1/2025,5/15/2025,14,47,Female,Cardiology,Hypertension,409873,Referred,No,May
+P0130,7/23/2025,7/28/2025,5,25,Male,ICU,Hypertension,678028,Recovered,No,July
+P0131,6/20/2025,6/24/2025,4,17,Male,Surgery,COVID-19,396896,Improved,Yes,June
+P0132,4/21/2025,5/5/2025,14,30,Female,Emergency,Pneumonia,109340,Recovered,No,May
+P0133,3/8/2025,3/17/2025,9,33,Male,Surgery,Fracture,384408,Recovered,No,March
+P0134,5/2/2025,5/12/2025,10,42,Male,Cardiology,Diabetes,354782,Improved,Yes,May
+P0135,9/1/2025,9/9/2025,8,47,Male,Oncology,Kidney Disease,484293,Recovered,No,September
+P0136,6/4/2025,6/12/2025,8,83,Male,ICU,Malaria,577972,Recovered,No,June
+P0137,12/31/2025,1/8/2026,8,10,Female,Surgery,COVID-19,412219,Recovered,No,January
+P0138,11/21/2025,12/1/2025,10,71,Female,Pediatrics,Diabetes,169925,Recovered,No,December
+P0139,12/26/2025,12/28/2025,2,84,Female,Pediatrics,Fracture,220789,Improved,No,December
+P0140,8/21/2025,8/28/2025,7,54,Female,Pediatrics,Pneumonia,160966,Recovered,No,August
+P0141,12/18/2025,12/26/2025,8,9,Female,Cardiology,Pneumonia,331188,Recovered,No,December
+P0142,10/12/2025,10/13/2025,1,76,Female,ICU,Hypertension,643620,Recovered,Yes,October
+P0143,5/28/2025,6/7/2025,10,40,Female,Neurology,Stroke,345748,Recovered,No,June
+P0144,2/25/2025,3/3/2025,6,72,Female,Neurology,Kidney Disease,369956,Recovered,Yes,March
+P0145,11/15/2025,11/25/2025,10,87,Male,Pediatrics,Pneumonia,123441,Recovered,No,November
+P0146,5/20/2025,6/1/2025,12,40,Female,ICU,Diabetes,616009,Improved,Yes,June
+P0147,3/14/2025,3/26/2025,12,82,Female,ICU,Pneumonia,582026,Recovered,No,March
+P0148,7/9/2025,7/14/2025,5,42,Male,Surgery,Pneumonia,444395,Improved,No,July
+P0149,11/13/2025,11/14/2025,1,87,Male,Cardiology,Fracture,378079,Recovered,No,November
+P0150,8/9/2025,8/11/2025,2,37,Female,Pediatrics,COVID-19,197743,Recovered,No,August
+P0151,1/29/2025,1/30/2025,1,27,Male,Emergency,Hypertension,117686,Recovered,No,January
+P0152,9/12/2025,9/24/2025,12,56,Female,Emergency,Diabetes,139834,Recovered,No,September
+P0153,7/23/2025,8/6/2025,14,6,Female,Neurology,COVID-19,330260,Improved,No,August
+P0154,7/27/2025,8/8/2025,12,82,Female,Neurology,Fracture,285096,Recovered,No,August
+P0155,2/15/2025,2/22/2025,7,14,Female,Emergency,Fracture,167184,Recovered,No,February
+P0156,4/24/2025,4/30/2025,6,22,Female,Cardiology,Fracture,402998,Recovered,No,April
+P0157,11/27/2025,12/11/2025,14,19,Male,Emergency,Diabetes,109194,Recovered,No,December
+P0158,4/1/2025,4/14/2025,13,81,Female,Oncology,Fracture,568886,Recovered,No,April
+P0159,3/19/2025,3/27/2025,8,9,Male,Oncology,Fracture,552756,Recovered,No,March
+P0160,9/17/2025,9/19/2025,2,40,Male,Oncology,Diabetes,474929,Improved,Yes,September
+P0161,11/11/2025,11/21/2025,10,65,Female,Neurology,COVID-19,346064,Improved,No,November
+P0162,11/30/2025,12/4/2025,4,42,Male,Orthopedics,Fracture,285715,Recovered,No,December
+P0163,2/13/2025,2/22/2025,9,83,Male,Emergency,Fracture,122472,Recovered,No,February
+P0164,7/10/2025,7/15/2025,5,50,Female,Neurology,Diabetes,314350,Recovered,No,July
+P0165,6/18/2025,6/20/2025,2,72,Male,Pediatrics,Fracture,157243,Improved,Yes,June
+P0166,2/11/2025,2/21/2025,10,85,Male,Emergency,COVID-19,135851,Recovered,No,February
+P0167,12/29/2025,12/31/2025,2,40,Male,Orthopedics,Asthma,304343,Recovered,No,December
+P0168,9/18/2025,9/24/2025,6,3,Female,Neurology,Stroke,293627,Recovered,No,September
+P0169,4/26/2025,4/29/2025,3,20,Male,Cardiology,Fracture,423300,Improved,No,April
+P0170,11/13/2025,11/16/2025,3,77,Male,Neurology,Malaria,291266,Recovered,Yes,November
+P0171,1/23/2025,1/30/2025,7,47,Female,Pediatrics,Stroke,151133,Recovered,No,January
+P0172,10/1/2025,10/5/2025,4,40,Female,ICU,COVID-19,672808,Improved,No,October
+P0173,8/14/2025,8/22/2025,8,37,Male,Surgery,COVID-19,435916,Referred,No,August
+P0174,3/12/2025,3/26/2025,14,33,Male,Cardiology,Kidney Disease,382991,Recovered,No,March
+P0175,3/5/2025,3/10/2025,5,11,Female,Surgery,Diabetes,405755,Recovered,No,March
+P0176,4/24/2025,5/8/2025,14,58,Female,Surgery,Stroke,373495,Recovered,No,May
+P0177,7/17/2025,7/19/2025,2,48,Male,Emergency,Pneumonia,131770,Recovered,No,July
+P0178,1/20/2025,1/25/2025,5,61,Male,Pediatrics,Hypertension,138191,Recovered,No,January
+P0179,5/12/2025,5/16/2025,4,20,Female,Orthopedics,Stroke,315320,Recovered,No,May
+P0180,6/4/2025,6/6/2025,2,7,Female,Emergency,COVID-19,173748,Recovered,No,June
+P0181,10/2/2025,10/3/2025,1,81,Female,Oncology,Pneumonia,501711,Recovered,Yes,October
+P0182,12/7/2025,12/18/2025,11,11,Male,Orthopedics,Asthma,267265,Recovered,Yes,December
+P0183,8/29/2025,8/30/2025,1,82,Male,Neurology,Fracture,318929,Recovered,Yes,August
+P0184,5/4/2025,5/16/2025,12,85,Female,Orthopedics,Kidney Disease,321122,Recovered,No,May
+P0185,6/23/2025,7/7/2025,14,83,Male,Emergency,Pneumonia,192123,Recovered,No,July
+P0186,2/2/2025,2/14/2025,12,59,Male,Cardiology,Fracture,346422,Recovered,Yes,February
+P0187,6/8/2025,6/17/2025,9,51,Male,ICU,Heart Failure,641176,Recovered,No,June
+P0188,7/2/2025,7/16/2025,14,7,Female,Surgery,Asthma,413506,Improved,No,July
+P0189,8/14/2025,8/21/2025,7,44,Female,ICU,Diabetes,635038,Recovered,No,August
+P0190,8/6/2025,8/8/2025,2,56,Male,Orthopedics,Diabetes,327785,Recovered,Yes,August
+P0191,6/17/2025,6/28/2025,11,38,Female,Emergency,Fracture,168986,Recovered,No,June
+P0192,8/17/2025,8/18/2025,1,46,Male,Orthopedics,Asthma,277008,Referred,No,August
+P0193,7/6/2025,7/15/2025,9,87,Female,Emergency,Hypertension,94081,Recovered,Yes,July
+P0194,3/6/2025,3/8/2025,2,31,Male,Surgery,Malaria,418015,Recovered,No,March
+P0195,7/9/2025,7/15/2025,6,57,Female,Surgery,Heart Failure,445225,Recovered,No,July
+P0196,5/8/2025,5/10/2025,2,4,Female,Pediatrics,Malaria,185410,Recovered,No,May
+P0197,4/20/2025,4/30/2025,10,37,Male,Pediatrics,Malaria,184382,Recovered,No,April
+P0198,3/30/2025,4/11/2025,12,57,Female,ICU,Fracture,676235,Improved,No,April
+P0199,12/30/2025,1/1/2026,2,71,Female,Orthopedics,Kidney Disease,259315,Recovered,No,January
+P0200,4/25/2025,4/27/2025,2,26,Female,Surgery,Malaria,401029,Recovered,Yes,April
+P0201,10/10/2025,10/13/2025,3,79,Female,Surgery,Asthma,378617,Improved,No,October
+P0202,10/22/2025,10/24/2025,2,17,Female,ICU,Pneumonia,654192,Recovered,Yes,October
+P0203,10/10/2025,10/21/2025,11,76,Male,Emergency,Kidney Disease,106912,Recovered,No,October
+P0204,3/20/2025,3/25/2025,5,22,Female,Emergency,Diabetes,182973,Referred,No,March
+P0205,5/9/2025,5/13/2025,4,82,Male,ICU,Kidney Disease,605972,Recovered,Yes,May
+P0206,11/25/2025,11/28/2025,3,76,Female,ICU,COVID-19,590210,Recovered,Yes,November
+P0207,1/22/2025,2/5/2025,14,4,Male,Cardiology,COVID-19,404076,Recovered,No,February
+P0208,8/2/2025,8/12/2025,10,82,Male,Cardiology,Asthma,402203,Recovered,No,August
+P0209,6/2/2025,6/10/2025,8,10,Male,Pediatrics,Fracture,140719,Recovered,No,June
+P0210,11/7/2025,11/10/2025,3,41,Female,Surgery,Pneumonia,411853,Improved,No,November
+P0211,7/9/2025,7/18/2025,9,72,Male,Cardiology,Hypertension,351685,Recovered,No,July
+P0212,5/29/2025,6/5/2025,7,79,Male,Neurology,Pneumonia,290932,Improved,No,June
+P0213,9/13/2025,9/22/2025,9,60,Female,Oncology,Kidney Disease,510441,Recovered,No,September
+P0214,8/23/2025,8/27/2025,4,28,Female,Orthopedics,Heart Failure,226377,Recovered,Yes,August
+P0215,10/2/2025,10/3/2025,1,14,Female,Neurology,Hypertension,304664,Recovered,No,October
+P0216,10/19/2025,10/28/2025,9,25,Female,Neurology,COVID-19,307827,Recovered,Yes,October
+P0217,12/15/2025,12/25/2025,10,16,Female,Cardiology,Kidney Disease,332672,Improved,No,December
+P0218,7/7/2025,7/20/2025,13,19,Male,Emergency,Pneumonia,156731,Recovered,No,July
+P0219,6/20/2025,7/3/2025,13,61,Female,Oncology,Pneumonia,489521,Recovered,No,July
+P0220,7/21/2025,7/31/2025,10,39,Female,Orthopedics,Malaria,286494,Recovered,No,July
+P0221,1/9/2025,1/15/2025,6,43,Male,Pediatrics,COVID-19,174596,Improved,No,January
+P0222,8/31/2025,9/5/2025,5,84,Female,Surgery,Pneumonia,471733,Recovered,No,September
+P0223,9/26/2025,10/7/2025,11,80,Male,Surgery,COVID-19,419832,Recovered,Yes,October
+P0224,12/25/2025,12/27/2025,2,25,Female,Cardiology,Hypertension,361116,Recovered,No,December
+P0225,12/28/2025,12/31/2025,3,67,Male,Emergency,Malaria,132604,Recovered,No,December
+P0226,9/30/2025,10/6/2025,6,70,Female,Neurology,COVID-19,371186,Improved,No,October
+P0227,9/5/2025,9/9/2025,4,32,Female,Emergency,Heart Failure,129124,Referred,No,September
+P0228,12/27/2025,12/31/2025,4,89,Female,Pediatrics,Heart Failure,161555,Referred,No,December
+P0229,3/4/2025,3/14/2025,10,87,Female,Orthopedics,Hypertension,271712,Improved,No,March
+P0230,5/28/2025,6/9/2025,12,11,Male,Neurology,Stroke,327983,Improved,No,June
+P0231,10/3/2025,10/8/2025,5,72,Male,Pediatrics,Stroke,137992,Improved,Yes,October
+P0232,1/26/2025,2/6/2025,11,68,Female,Emergency,Diabetes,120518,Recovered,Yes,February
+P0233,12/15/2025,12/28/2025,13,18,Female,Cardiology,Malaria,392135,Recovered,No,December
+P0234,11/30/2025,12/4/2025,4,37,Male,Emergency,Kidney Disease,174659,Improved,Yes,December
+P0235,1/20/2025,1/23/2025,3,54,Female,Surgery,Malaria,393040,Recovered,No,January
+P0236,4/6/2025,4/18/2025,12,38,Female,Surgery,Heart Failure,371214,Recovered,No,April
+P0237,8/21/2025,9/1/2025,11,70,Male,Orthopedics,Fracture,237589,Recovered,No,September
+P0238,3/25/2025,4/6/2025,12,59,Female,Pediatrics,COVID-19,214188,Improved,No,April
+P0239,12/12/2025,12/25/2025,13,25,Female,Emergency,Diabetes,173719,Improved,No,December
+P0240,7/25/2025,8/5/2025,11,13,Male,Emergency,Heart Failure,108430,Referred,No,August
+P0241,7/16/2025,7/20/2025,4,58,Male,Pediatrics,Heart Failure,163204,Improved,No,July
+P0242,12/1/2025,12/7/2025,6,89,Female,Emergency,Kidney Disease,177528,Recovered,Yes,December
+P0243,12/27/2025,1/9/2026,13,40,Male,Pediatrics,Stroke,203717,Recovered,No,January
+P0244,3/10/2025,3/18/2025,8,20,Female,Oncology,Kidney Disease,549395,Improved,No,March
+P0245,12/7/2025,12/21/2025,14,28,Male,Surgery,Kidney Disease,459173,Improved,No,December
+P0246,8/17/2025,8/26/2025,9,47,Male,Cardiology,COVID-19,393946,Improved,No,August
+P0247,10/2/2025,10/5/2025,3,22,Female,Emergency,Diabetes,158202,Recovered,No,October
+P0248,9/19/2025,9/27/2025,8,8,Female,Oncology,Heart Failure,537272,Recovered,No,September
+P0249,1/12/2025,1/19/2025,7,33,Female,Surgery,Fracture,467754,Recovered,No,January
+P0250,12/25/2025,12/27/2025,2,70,Male,ICU,Asthma,579046,Recovered,No,December
+P0251,7/11/2025,7/18/2025,7,58,Male,Surgery,Fracture,419479,Recovered,No,July
+P0252,3/2/2025,3/5/2025,3,69,Male,Neurology,Heart Failure,286691,Recovered,No,March
+P0253,8/26/2025,9/6/2025,11,70,Female,Neurology,Stroke,319712,Recovered,No,September
+P0254,2/27/2025,2/28/2025,1,85,Male,Neurology,Malaria,370408,Recovered,No,February
+P0255,11/3/2025,11/14/2025,11,7,Male,Emergency,Hypertension,95798,Recovered,No,November
+P0256,3/13/2025,3/22/2025,9,38,Female,Emergency,Stroke,185881,Recovered,No,March
+P0257,6/4/2025,6/7/2025,3,85,Male,Orthopedics,Asthma,274206,Referred,Yes,June
+P0258,10/12/2025,10/20/2025,8,7,Female,ICU,Asthma,654320,Improved,No,October
+P0259,7/29/2025,8/1/2025,3,39,Male,Neurology,Heart Failure,368882,Recovered,No,August
+P0260,12/29/2025,1/1/2026,3,60,Male,Surgery,Asthma,443713,Recovered,No,January
+P0261,5/5/2025,5/10/2025,5,27,Male,Emergency,Kidney Disease,100363,Improved,No,May
+P0262,4/8/2025,4/9/2025,1,35,Male,Neurology,Malaria,349294,Recovered,No,April
+P0263,4/17/2025,5/1/2025,14,43,Male,Emergency,Malaria,92009,Recovered,No,May
+P0264,5/5/2025,5/17/2025,12,78,Female,Pediatrics,Malaria,171987,Improved,No,May
+P0265,10/1/2025,10/12/2025,11,46,Male,Emergency,Malaria,137139,Recovered,No,October
+P0266,6/13/2025,6/17/2025,4,48,Male,Emergency,Hypertension,95992,Recovered,No,June
+P0267,5/14/2025,5/23/2025,9,75,Male,Orthopedics,Malaria,274732,Recovered,No,May
+P0268,10/9/2025,10/20/2025,11,88,Female,Emergency,Malaria,190055,Recovered,No,October
+P0269,3/28/2025,4/9/2025,12,46,Male,Emergency,Kidney Disease,184412,Recovered,No,April
+P0270,1/18/2025,2/1/2025,14,10,Male,ICU,Stroke,657584,Recovered,Yes,February
+P0271,2/4/2025,2/16/2025,12,20,Female,Cardiology,Malaria,386287,Recovered,No,February
+P0272,1/9/2025,1/10/2025,1,69,Female,Orthopedics,Hypertension,221553,Improved,Yes,January
+P0273,9/15/2025,9/29/2025,14,90,Male,Pediatrics,Stroke,225666,Referred,No,September
+P0274,4/9/2025,4/19/2025,10,68,Female,Emergency,Asthma,136457,Recovered,Yes,April
+P0275,8/24/2025,9/3/2025,10,32,Male,ICU,Hypertension,599603,Improved,No,September
+P0276,2/17/2025,2/24/2025,7,49,Male,Neurology,Diabetes,332390,Recovered,Yes,February
+P0277,9/13/2025,9/27/2025,14,56,Male,Pediatrics,Kidney Disease,163420,Improved,No,September
+P0278,1/22/2025,1/26/2025,4,28,Male,Surgery,Diabetes,460739,Recovered,No,January
+P0279,12/17/2025,12/22/2025,5,70,Male,Orthopedics,Stroke,224312,Improved,Yes,December
+P0280,10/28/2025,10/31/2025,3,51,Female,ICU,Kidney Disease,609226,Recovered,No,October
+P0281,6/19/2025,6/26/2025,7,18,Female,Surgery,Hypertension,460349,Recovered,No,June
+P0282,2/20/2025,2/27/2025,7,30,Female,Surgery,Fracture,414642,Recovered,No,February
+P0283,1/16/2025,1/27/2025,11,35,Female,Surgery,Asthma,429054,Recovered,No,January
+P0284,4/6/2025,4/17/2025,11,75,Male,Pediatrics,Diabetes,131232,Recovered,No,April
+P0285,5/18/2025,5/21/2025,3,49,Female,Pediatrics,Diabetes,203086,Recovered,No,May
+P0286,2/16/2025,2/17/2025,1,40,Female,Oncology,Kidney Disease,569791,Recovered,No,February
+P0287,10/12/2025,10/21/2025,9,53,Female,Cardiology,Asthma,331746,Recovered,No,October
+P0288,1/7/2025,1/12/2025,5,53,Male,Neurology,COVID-19,281101,Recovered,No,January
+P0289,9/24/2025,9/27/2025,3,88,Male,Neurology,Diabetes,288198,Recovered,Yes,September
+P0290,3/27/2025,4/3/2025,7,36,Male,Neurology,Malaria,333469,Recovered,No,April
+P0291,11/1/2025,11/11/2025,10,26,Female,Oncology,COVID-19,487758,Referred,No,November
+P0292,7/14/2025,7/27/2025,13,43,Male,Oncology,Heart Failure,526441,Improved,No,July
+P0293,6/14/2025,6/24/2025,10,89,Female,Emergency,Heart Failure,131180,Recovered,Yes,June
+P0294,12/22/2025,1/2/2026,11,63,Female,ICU,Fracture,672494,Recovered,Yes,January
+P0295,2/28/2025,3/10/2025,10,26,Male,Orthopedics,Malaria,291516,Improved,No,March
+P0296,12/29/2025,1/2/2026,4,57,Female,Surgery,Malaria,478957,Improved,No,January
+P0297,3/13/2025,3/24/2025,11,39,Female,Emergency,Diabetes,176332,Recovered,No,March
+P0298,8/18/2025,8/28/2025,10,62,Male,Orthopedics,Fracture,290040,Recovered,No,August
+P0299,12/26/2025,1/8/2026,13,69,Female,Orthopedics,Pneumonia,231138,Recovered,Yes,January
+P0300,11/28/2025,12/8/2025,10,6,Female,Orthopedics,Asthma,304545,Recovered,No,December
+P0301,2/24/2025,2/25/2025,1,13,Male,Emergency,Malaria,156935,Recovered,No,February
+P0302,7/11/2025,7/18/2025,7,60,Male,Surgery,Malaria,447147,Recovered,No,July
+P0303,2/23/2025,2/28/2025,5,54,Male,ICU,Fracture,581253,Referred,No,February
+P0304,6/9/2025,6/15/2025,6,59,Female,Surgery,Malaria,438303,Recovered,No,June
+P0305,6/13/2025,6/15/2025,2,39,Male,Cardiology,Pneumonia,413163,Improved,Yes,June
+P0306,5/5/2025,5/14/2025,9,23,Male,Orthopedics,Asthma,263383,Referred,No,May
+P0307,11/19/2025,11/22/2025,3,24,Male,Pediatrics,Malaria,176640,Improved,No,November
+P0308,10/31/2025,11/7/2025,7,50,Male,Cardiology,COVID-19,348153,Improved,No,November
+P0309,2/22/2025,3/7/2025,13,69,Female,Emergency,Kidney Disease,132727,Recovered,Yes,March
+P0310,11/24/2025,11/30/2025,6,77,Male,Neurology,Heart Failure,321451,Improved,No,November
+P0311,11/11/2025,11/21/2025,10,11,Male,Pediatrics,Fracture,161049,Recovered,No,November
+P0312,12/22/2025,12/25/2025,3,66,Male,Neurology,Malaria,348174,Recovered,Yes,December
+P0313,11/22/2025,12/1/2025,9,89,Female,Surgery,Malaria,392706,Recovered,No,December
+P0314,11/14/2025,11/15/2025,1,46,Female,ICU,Asthma,633518,Improved,Yes,November
+P0315,12/17/2025,12/25/2025,8,54,Male,Pediatrics,Stroke,178176,Recovered,No,December
+P0316,5/30/2025,5/31/2025,1,36,Female,Emergency,Kidney Disease,127836,Recovered,Yes,May
+P0317,9/19/2025,9/21/2025,2,74,Female,Cardiology,Kidney Disease,421595,Improved,No,September
+P0318,4/22/2025,4/29/2025,7,14,Male,Pediatrics,Malaria,205678,Recovered,No,April
+P0319,5/15/2025,5/21/2025,6,12,Female,Neurology,COVID-19,285386,Recovered,No,May
+P0320,11/20/2025,11/27/2025,7,22,Male,Orthopedics,COVID-19,322871,Recovered,No,November
+P0321,6/29/2025,7/8/2025,9,36,Female,Orthopedics,COVID-19,242069,Improved,No,July
+P0322,5/17/2025,5/31/2025,14,66,Female,ICU,Hypertension,659037,Improved,No,May
+P0323,5/22/2025,6/5/2025,14,84,Male,Cardiology,Asthma,337392,Improved,Yes,June
+P0324,9/8/2025,9/11/2025,3,74,Male,Orthopedics,Asthma,302288,Recovered,No,September
+P0325,9/21/2025,10/3/2025,12,36,Male,Pediatrics,Diabetes,168374,Recovered,No,October
+P0326,8/23/2025,9/3/2025,11,86,Male,Pediatrics,Malaria,128300,Referred,No,September
+P0327,5/18/2025,5/24/2025,6,37,Female,Emergency,Hypertension,165750,Improved,No,May
+P0328,1/24/2025,1/26/2025,2,81,Male,Surgery,Malaria,430238,Referred,Yes,January
+P0329,8/22/2025,8/23/2025,1,55,Female,Emergency,Diabetes,180255,Recovered,No,August
+P0330,12/2/2025,12/8/2025,6,33,Female,Cardiology,Heart Failure,407098,Recovered,No,December
+P0331,12/25/2025,1/7/2026,13,30,Female,Neurology,Diabetes,281953,Recovered,No,January
+P0332,3/9/2025,3/19/2025,10,29,Male,Oncology,Asthma,528335,Recovered,Yes,March
+P0333,12/22/2025,12/25/2025,3,62,Male,Cardiology,Fracture,370209,Improved,Yes,December
+P0334,7/8/2025,7/13/2025,5,18,Male,Neurology,Diabetes,376609,Recovered,No,July
+P0335,9/29/2025,10/9/2025,10,2,Male,Orthopedics,Asthma,241511,Improved,No,October
+P0336,11/12/2025,11/23/2025,11,57,Male,Surgery,COVID-19,381362,Recovered,No,November
+P0337,7/16/2025,7/22/2025,6,55,Male,Emergency,Kidney Disease,108327,Recovered,No,July
+P0338,11/4/2025,11/14/2025,10,78,Female,Emergency,Stroke,180502,Improved,Yes,November
+P0339,9/23/2025,10/3/2025,10,66,Male,Emergency,Malaria,141347,Improved,Yes,October
+P0340,7/17/2025,7/19/2025,2,31,Male,Oncology,Fracture,547847,Improved,Yes,July
+P0341,6/12/2025,6/15/2025,3,50,Male,Surgery,Malaria,444498,Recovered,No,June
+P0342,2/7/2025,2/8/2025,1,76,Female,Cardiology,Kidney Disease,354365,Referred,Yes,February
+P0343,5/27/2025,6/7/2025,11,65,Male,Surgery,Heart Failure,425518,Recovered,No,June
+P0344,2/12/2025,2/17/2025,5,11,Female,Oncology,Asthma,496633,Recovered,No,February
+P0345,10/28/2025,11/8/2025,11,84,Male,Pediatrics,Hypertension,128665,Referred,No,November
+P0346,5/6/2025,5/8/2025,2,56,Male,Cardiology,Diabetes,400254,Improved,No,May
+P0347,1/7/2025,1/19/2025,12,18,Female,Pediatrics,Pneumonia,141473,Recovered,No,January
+P0348,7/10/2025,7/13/2025,3,35,Female,Pediatrics,Heart Failure,135473,Recovered,No,July
+P0349,9/26/2025,9/28/2025,2,34,Male,Pediatrics,Malaria,195582,Recovered,No,September
+P0350,10/18/2025,10/21/2025,3,48,Male,Emergency,Stroke,191361,Recovered,No,October
+P0351,9/18/2025,9/19/2025,1,6,Female,Surgery,Pneumonia,371610,Recovered,Yes,September
+P0352,4/2/2025,4/16/2025,14,5,Female,Orthopedics,Stroke,313588,Recovered,No,April
+P0353,8/2/2025,8/14/2025,12,41,Male,Emergency,Pneumonia,100208,Recovered,No,August
+P0354,4/25/2025,5/8/2025,13,67,Female,ICU,Heart Failure,622550,Recovered,Yes,May
+P0355,6/17/2025,6/19/2025,2,71,Female,Oncology,COVID-19,518354,Recovered,Yes,June
+P0356,5/5/2025,5/13/2025,8,48,Male,Orthopedics,Pneumonia,284665,Improved,No,May
+P0357,1/4/2025,1/11/2025,7,4,Male,Emergency,Fracture,135406,Recovered,No,January
+P0358,1/1/2025,1/14/2025,13,85,Male,Neurology,Asthma,366741,Recovered,No,January
+P0359,9/9/2025,9/10/2025,1,19,Female,Pediatrics,Fracture,132193,Recovered,Yes,September
+P0360,8/23/2025,9/4/2025,12,11,Male,Orthopedics,COVID-19,286247,Improved,No,September
+P0361,10/18/2025,10/19/2025,1,56,Female,Pediatrics,Asthma,137132,Recovered,Yes,October
+P0362,12/25/2025,1/8/2026,14,42,Male,Emergency,COVID-19,125645,Referred,No,January
+P0363,2/25/2025,2/28/2025,3,14,Female,Emergency,Stroke,151086,Recovered,No,February
+P0364,8/20/2025,8/25/2025,5,60,Female,Emergency,COVID-19,105717,Improved,No,August
+P0365,1/21/2025,1/25/2025,4,42,Male,Emergency,Heart Failure,183212,Recovered,No,January
+P0366,5/14/2025,5/28/2025,14,23,Male,Cardiology,Diabetes,373004,Recovered,No,May
+P0367,8/25/2025,8/27/2025,2,18,Female,Cardiology,Fracture,328083,Recovered,No,August
+P0368,12/18/2025,12/29/2025,11,83,Male,Cardiology,Diabetes,396823,Improved,Yes,December
+P0369,4/12/2025,4/23/2025,11,57,Female,Surgery,Diabetes,382055,Improved,No,April
+P0370,1/22/2025,1/30/2025,8,7,Female,Emergency,Hypertension,165220,Improved,No,January
+P0371,7/15/2025,7/26/2025,11,55,Female,Emergency,Pneumonia,118143,Recovered,No,July
+P0372,1/18/2025,1/28/2025,10,80,Male,Orthopedics,Diabetes,304840,Recovered,No,January
+P0373,5/24/2025,5/31/2025,7,18,Male,Neurology,Asthma,354233,Recovered,No,May
+P0374,7/3/2025,7/11/2025,8,70,Male,Surgery,Hypertension,415093,Recovered,No,July
+P0375,6/13/2025,6/23/2025,10,29,Female,Cardiology,Kidney Disease,426258,Recovered,No,June
+P0376,7/3/2025,7/16/2025,13,75,Female,ICU,Kidney Disease,590922,Recovered,Yes,July
+P0377,1/29/2025,2/11/2025,13,29,Male,Orthopedics,Pneumonia,324515,Referred,No,February
+P0378,5/2/2025,5/12/2025,10,41,Female,Surgery,COVID-19,461439,Recovered,No,May
+P0379,10/16/2025,10/19/2025,3,73,Female,ICU,Pneumonia,679667,Recovered,No,October
+P0380,9/9/2025,9/10/2025,1,12,Male,Cardiology,Fracture,398861,Recovered,Yes,September
+P0381,11/11/2025,11/15/2025,4,17,Female,Neurology,Hypertension,293260,Improved,No,November
+P0382,1/12/2025,1/15/2025,3,76,Male,Pediatrics,Fracture,138566,Improved,No,January
+P0383,12/27/2025,1/7/2026,11,51,Male,Orthopedics,Asthma,264113,Recovered,No,January
+P0384,11/24/2025,12/2/2025,8,84,Female,Emergency,Stroke,182691,Referred,No,December
+P0385,12/7/2025,12/17/2025,10,23,Male,Neurology,COVID-19,366206,Recovered,No,December
+P0386,7/20/2025,8/3/2025,14,73,Male,Cardiology,Malaria,398956,Recovered,No,August
+P0387,3/14/2025,3/20/2025,6,10,Male,Emergency,Fracture,131879,Improved,No,March
+P0388,8/17/2025,8/18/2025,1,34,Male,Emergency,Hypertension,180855,Recovered,Yes,August
+P0389,1/25/2025,2/1/2025,7,57,Female,Pediatrics,Fracture,141802,Recovered,No,February
+P0390,10/7/2025,10/14/2025,7,13,Male,Surgery,Pneumonia,473380,Recovered,No,October
+P0391,8/20/2025,8/22/2025,2,5,Female,Emergency,Pneumonia,131774,Recovered,No,August
+P0392,2/8/2025,2/17/2025,9,12,Female,Emergency,Pneumonia,170431,Improved,No,February
+P0393,11/7/2025,11/14/2025,7,21,Female,Cardiology,Heart Failure,363397,Recovered,No,November
+P0394,6/2/2025,6/6/2025,4,13,Male,Cardiology,Fracture,394943,Recovered,No,June
+P0395,1/2/2025,1/9/2025,7,12,Male,Emergency,Hypertension,176772,Recovered,No,January
+P0396,4/16/2025,4/19/2025,3,82,Female,Emergency,Malaria,100739,Improved,No,April
+P0397,12/5/2025,12/10/2025,5,12,Female,Pediatrics,Pneumonia,170793,Improved,No,December
+P0398,8/17/2025,8/18/2025,1,34,Male,Neurology,Pneumonia,304524,Recovered,Yes,August
+P0399,12/23/2025,1/3/2026,11,13,Male,Cardiology,Kidney Disease,365061,Recovered,No,January
+P0400,2/1/2025,2/15/2025,14,50,Female,Surgery,COVID-19,424870,Recovered,No,February
+P0401,5/1/2025,5/9/2025,8,39,Male,Cardiology,Diabetes,413625,Recovered,Yes,May
+P0402,8/18/2025,8/21/2025,3,22,Male,ICU,Asthma,675966,Recovered,No,August
+P0403,4/14/2025,4/28/2025,14,81,Male,Emergency,Diabetes,167994,Referred,Yes,April
+P0404,7/18/2025,7/27/2025,9,51,Male,Orthopedics,COVID-19,256202,Referred,No,July
+P0405,10/28/2025,11/6/2025,9,54,Male,Cardiology,Diabetes,339613,Recovered,No,November
+P0406,10/16/2025,10/29/2025,13,13,Female,Surgery,Asthma,440206,Improved,No,October
+P0407,12/2/2025,12/10/2025,8,74,Female,Orthopedics,Hypertension,224910,Recovered,Yes,December
+P0408,7/22/2025,7/28/2025,6,89,Female,Emergency,Heart Failure,187746,Recovered,No,July
+P0409,6/9/2025,6/14/2025,5,63,Male,Surgery,Heart Failure,459764,Improved,Yes,June
+P0410,8/15/2025,8/28/2025,13,42,Female,Emergency,Stroke,144627,Recovered,No,August
+P0411,7/28/2025,8/9/2025,12,63,Female,Pediatrics,Kidney Disease,169009,Recovered,No,August
+P0412,7/26/2025,7/29/2025,3,68,Male,Surgery,Hypertension,373794,Improved,Yes,July
+P0413,5/8/2025,5/9/2025,1,59,Female,Cardiology,Diabetes,367235,Improved,No,May
+P0414,12/15/2025,12/16/2025,1,31,Female,Neurology,Fracture,347862,Recovered,No,December
+P0415,3/25/2025,4/8/2025,14,34,Male,Pediatrics,Pneumonia,210289,Recovered,No,April
+P0416,10/20/2025,11/2/2025,13,28,Female,Surgery,Kidney Disease,454853,Recovered,No,November
+P0417,1/11/2025,1/25/2025,14,88,Female,Cardiology,COVID-19,337342,Recovered,No,January
+P0418,6/6/2025,6/18/2025,12,83,Female,Emergency,Kidney Disease,139345,Recovered,No,June
+P0419,11/16/2025,11/23/2025,7,75,Female,Cardiology,Heart Failure,387045,Improved,No,November
+P0420,12/17/2025,12/19/2025,2,62,Female,Cardiology,Stroke,356239,Improved,No,December
+P0421,3/18/2025,3/27/2025,9,31,Female,Surgery,Fracture,475569,Improved,No,March
+P0422,12/15/2025,12/18/2025,3,4,Female,Pediatrics,Hypertension,158745,Recovered,No,December
+P0423,10/26/2025,11/7/2025,12,74,Female,Surgery,Fracture,414979,Recovered,No,November
+P0424,9/17/2025,9/22/2025,5,22,Male,Surgery,Heart Failure,443170,Recovered,No,September
+P0425,10/14/2025,10/27/2025,13,24,Male,ICU,Heart Failure,613992,Recovered,No,October
+P0426,8/4/2025,8/17/2025,13,43,Female,Neurology,Hypertension,346751,Improved,No,August
+P0427,11/21/2025,12/1/2025,10,75,Female,ICU,Kidney Disease,579334,Recovered,No,December
+P0428,6/2/2025,6/9/2025,7,7,Female,Surgery,COVID-19,389762,Recovered,No,June
+P0429,8/23/2025,8/26/2025,3,41,Male,Surgery,Fracture,393639,Recovered,No,August
+P0430,11/21/2025,11/22/2025,1,1,Female,Oncology,Diabetes,497444,Improved,No,November
+P0431,3/8/2025,3/18/2025,10,56,Male,Orthopedics,Hypertension,272873,Recovered,No,March
+P0432,10/1/2025,10/5/2025,4,48,Male,ICU,Hypertension,612233,Recovered,No,October
+P0433,11/17/2025,11/29/2025,12,32,Female,Emergency,Pneumonia,135134,Recovered,No,November
+P0434,2/3/2025,2/17/2025,14,6,Female,Emergency,Asthma,128119,Recovered,No,February
+P0435,12/18/2025,12/21/2025,3,44,Female,ICU,Hypertension,634248,Recovered,No,December
+P0436,4/27/2025,5/1/2025,4,17,Female,Emergency,Hypertension,92872,Recovered,No,May
+P0437,7/12/2025,7/23/2025,11,33,Male,Surgery,Hypertension,451675,Deceased,Yes,July
+P0438,1/25/2025,2/6/2025,12,15,Male,Neurology,Stroke,319840,Recovered,No,February
+P0439,12/22/2025,1/2/2026,11,81,Male,Cardiology,Asthma,375164,Recovered,No,January
+P0440,2/23/2025,3/4/2025,9,80,Female,Cardiology,Kidney Disease,334943,Recovered,No,March
+P0441,4/14/2025,4/20/2025,6,53,Female,Emergency,Fracture,95164,Referred,No,April
+P0442,5/1/2025,5/2/2025,1,2,Male,Pediatrics,Kidney Disease,134474,Recovered,No,May
+P0443,2/8/2025,2/20/2025,12,13,Female,Surgery,Heart Failure,454454,Deceased,No,February
+P0444,8/26/2025,8/27/2025,1,13,Female,Surgery,Diabetes,375170,Recovered,No,August
+P0445,2/18/2025,3/4/2025,14,6,Female,Cardiology,Malaria,338139,Recovered,No,March
+P0446,11/15/2025,11/20/2025,5,12,Female,Neurology,Heart Failure,314921,Recovered,No,November
+P0447,7/17/2025,7/29/2025,12,62,Male,Surgery,Pneumonia,455045,Recovered,No,July
+P0448,2/23/2025,3/2/2025,7,76,Female,Oncology,COVID-19,544572,Recovered,No,March
+P0449,1/15/2025,1/29/2025,14,88,Male,Surgery,Asthma,465325,Referred,No,January
+P0450,8/14/2025,8/15/2025,1,9,Male,Emergency,Fracture,131187,Improved,Yes,August
+P0451,9/23/2025,10/2/2025,9,89,Female,Pediatrics,Pneumonia,132483,Recovered,No,October
+P0452,10/13/2025,10/23/2025,10,7,Female,Cardiology,Pneumonia,340568,Recovered,No,October
+P0453,2/8/2025,2/21/2025,13,63,Female,Emergency,Asthma,133371,Recovered,Yes,February
+P0454,5/1/2025,5/3/2025,2,59,Male,Oncology,Malaria,545108,Recovered,No,May
+P0455,12/1/2025,12/2/2025,1,14,Female,Neurology,Kidney Disease,274696,Recovered,Yes,December
+P0456,10/15/2025,10/19/2025,4,84,Female,Pediatrics,Fracture,164676,Recovered,Yes,October
+P0457,10/14/2025,10/27/2025,13,80,Male,Orthopedics,Hypertension,313933,Recovered,No,October
+P0458,6/24/2025,6/30/2025,6,82,Male,ICU,Malaria,608270,Recovered,No,June
+P0459,3/13/2025,3/27/2025,14,53,Female,Cardiology,Stroke,400065,Recovered,No,March
+P0460,8/23/2025,9/6/2025,14,25,Male,Pediatrics,Malaria,134125,Recovered,No,September
+P0461,8/23/2025,9/3/2025,11,76,Female,ICU,COVID-19,587647,Improved,Yes,September
+P0462,9/5/2025,9/14/2025,9,23,Female,Pediatrics,COVID-19,142760,Recovered,No,September
+P0463,11/7/2025,11/13/2025,6,65,Female,Surgery,Asthma,424875,Improved,No,November
+P0464,6/25/2025,6/30/2025,5,58,Female,Surgery,Kidney Disease,388111,Improved,No,June
+P0465,6/10/2025,6/22/2025,12,71,Female,Orthopedics,Pneumonia,246330,Improved,Yes,June
+P0466,12/30/2025,1/10/2026,11,23,Female,Oncology,Kidney Disease,561004,Improved,No,January
+P0467,9/3/2025,9/13/2025,10,74,Female,ICU,Asthma,663077,Improved,No,September
+P0468,1/7/2025,1/16/2025,9,14,Female,Cardiology,Pneumonia,339048,Recovered,Yes,January
+P0469,5/27/2025,6/7/2025,11,33,Male,Emergency,Fracture,98130,Recovered,No,June
+P0470,8/20/2025,8/22/2025,2,79,Female,Surgery,Stroke,466926,Recovered,Yes,August
+P0471,9/19/2025,10/2/2025,13,90,Female,Emergency,Fracture,177096,Recovered,Yes,October
+P0472,10/10/2025,10/11/2025,1,2,Male,Pediatrics,Fracture,146619,Improved,No,October
+P0473,10/29/2025,11/7/2025,9,78,Male,Emergency,Pneumonia,185015,Recovered,No,November
+P0474,3/30/2025,4/11/2025,12,66,Female,Cardiology,Hypertension,325326,Recovered,No,April
+P0475,6/19/2025,6/27/2025,8,20,Female,Cardiology,Malaria,362287,Improved,No,June
+P0476,10/21/2025,10/30/2025,9,46,Male,Cardiology,Kidney Disease,412757,Recovered,No,October
+P0477,2/4/2025,2/17/2025,13,65,Male,Emergency,Fracture,161182,Recovered,No,February
+P0478,6/19/2025,6/25/2025,6,38,Male,Emergency,Diabetes,188652,Recovered,No,June
+P0479,12/9/2025,12/15/2025,6,58,Male,Emergency,Fracture,174182,Recovered,No,December
+P0480,7/15/2025,7/28/2025,13,15,Female,Neurology,Kidney Disease,340809,Recovered,No,July
+P0481,9/18/2025,9/26/2025,8,63,Male,Cardiology,Pneumonia,405397,Recovered,Yes,September
+P0482,10/3/2025,10/12/2025,9,1,Female,Orthopedics,Diabetes,247627,Improved,No,October
+P0483,4/16/2025,4/25/2025,9,90,Male,Surgery,Hypertension,467173,Referred,No,April
+P0484,8/24/2025,9/5/2025,12,43,Male,Cardiology,COVID-19,329600,Improved,Yes,September
+P0485,4/27/2025,5/2/2025,5,53,Female,Neurology,Diabetes,352603,Recovered,No,May
+P0486,10/1/2025,10/2/2025,1,83,Male,Pediatrics,Heart Failure,128288,Recovered,No,October
+P0487,12/18/2025,12/23/2025,5,78,Male,Cardiology,Malaria,420306,Improved,No,December
+P0488,3/22/2025,3/31/2025,9,29,Female,Cardiology,Pneumonia,371248,Improved,No,March
+P0489,6/2/2025,6/13/2025,11,83,Male,Neurology,COVID-19,271461,Recovered,No,June
+P0490,11/2/2025,11/9/2025,7,69,Female,Orthopedics,Stroke,231157,Referred,No,November
+P0491,7/31/2025,8/11/2025,11,66,Male,Emergency,Diabetes,114116,Improved,Yes,August
+P0492,4/3/2025,4/14/2025,11,73,Male,Surgery,Heart Failure,468440,Recovered,No,April
+P0493,12/10/2025,12/12/2025,2,33,Male,Cardiology,Diabetes,415104,Recovered,No,December
+P0494,5/26/2025,6/5/2025,10,9,Female,Surgery,COVID-19,411652,Recovered,No,June
+P0495,3/20/2025,3/30/2025,10,73,Male,Neurology,Asthma,311462,Recovered,No,March
+P0496,5/22/2025,6/5/2025,14,47,Female,Cardiology,Fracture,416072,Recovered,No,June
+P0497,6/6/2025,6/14/2025,8,71,Male,Cardiology,Kidney Disease,404613,Improved,No,June
+P0498,4/11/2025,4/16/2025,5,81,Female,Cardiology,COVID-19,329882,Recovered,No,April
+P0499,4/19/2025,4/20/2025,1,71,Female,Emergency,Pneumonia,160736,Recovered,No,April
+P0500,8/26/2025,9/4/2025,9,66,Male,Cardiology,Kidney Disease,367692,Improved,No,September
+P0501,3/13/2025,3/21/2025,8,21,Female,Emergency,Fracture,164162,Referred,No,March
+P0502,1/21/2025,1/25/2025,4,63,Female,Emergency,Asthma,124649,Recovered,Yes,January
+P0503,8/29/2025,9/6/2025,8,6,Female,Cardiology,Heart Failure,405003,Improved,No,September
+P0504,10/24/2025,11/2/2025,9,73,Male,Emergency,Kidney Disease,175678,Improved,No,November
+P0505,5/9/2025,5/16/2025,7,29,Female,Oncology,COVID-19,516255,Recovered,No,May
+P0506,1/4/2025,1/13/2025,9,18,Male,Neurology,Pneumonia,300145,Recovered,Yes,January
+P0507,4/6/2025,4/9/2025,3,47,Female,Orthopedics,Diabetes,327079,Recovered,No,April
+P0508,9/4/2025,9/15/2025,11,62,Male,Oncology,Stroke,547436,Improved,Yes,September
+P0509,1/23/2025,1/26/2025,3,74,Male,Orthopedics,Pneumonia,237658,Recovered,Yes,January
+P0510,5/13/2025,5/16/2025,3,67,Female,ICU,Diabetes,648558,Improved,No,May
+P0511,4/21/2025,4/29/2025,8,78,Male,ICU,COVID-19,633133,Improved,Yes,April
+P0512,4/4/2025,4/14/2025,10,85,Male,Oncology,Stroke,491983,Recovered,No,April
+P0513,7/13/2025,7/20/2025,7,17,Female,Cardiology,Pneumonia,346522,Referred,No,July
+P0514,11/7/2025,11/9/2025,2,23,Male,Oncology,Diabetes,550576,Recovered,No,November
+P0515,9/4/2025,9/15/2025,11,17,Female,Surgery,Kidney Disease,440685,Improved,No,September
+P0516,8/4/2025,8/10/2025,6,6,Female,Pediatrics,Fracture,176224,Improved,No,August
+P0517,10/29/2025,11/11/2025,13,90,Male,Orthopedics,Diabetes,275769,Recovered,Yes,November
+P0518,5/26/2025,6/5/2025,10,70,Male,Neurology,COVID-19,294775,Improved,Yes,June
+P0519,9/25/2025,9/27/2025,2,67,Female,Cardiology,Fracture,405792,Improved,Yes,September
+P0520,2/24/2025,2/27/2025,3,55,Female,Pediatrics,COVID-19,153244,Recovered,No,February
+P0521,5/22/2025,6/2/2025,11,51,Male,Pediatrics,Fracture,174162,Recovered,No,June
+P0522,10/14/2025,10/23/2025,9,62,Male,Emergency,Diabetes,130193,Recovered,No,October
+P0523,4/28/2025,5/6/2025,8,90,Female,ICU,Kidney Disease,583143,Recovered,Yes,May
+P0524,11/11/2025,11/23/2025,12,88,Male,Pediatrics,Malaria,141068,Improved,No,November
+P0525,11/4/2025,11/11/2025,7,12,Female,Cardiology,Asthma,349067,Recovered,No,November
+P0526,11/11/2025,11/22/2025,11,67,Male,Emergency,Malaria,168311,Improved,Yes,November
+P0527,8/13/2025,8/14/2025,1,26,Male,Surgery,COVID-19,475370,Improved,No,August
+P0528,3/28/2025,4/8/2025,11,5,Female,Neurology,Asthma,355854,Recovered,Yes,April
+P0529,6/30/2025,7/11/2025,11,51,Male,Neurology,Diabetes,296255,Improved,No,July
+P0530,10/9/2025,10/14/2025,5,72,Male,Surgery,Malaria,415625,Recovered,No,October
+P0531,7/26/2025,8/5/2025,10,1,Female,Emergency,Fracture,143363,Recovered,No,August
+P0532,3/1/2025,3/14/2025,13,66,Female,ICU,COVID-19,640504,Recovered,No,March
+P0533,9/5/2025,9/18/2025,13,32,Male,Pediatrics,Malaria,221659,Recovered,No,September
+P0534,3/1/2025,3/6/2025,5,9,Male,Neurology,Fracture,373370,Recovered,No,March
+P0535,7/31/2025,8/6/2025,6,67,Female,Orthopedics,Diabetes,311857,Recovered,No,August
+P0536,10/11/2025,10/14/2025,3,61,Male,Emergency,Malaria,118647,Referred,No,October
+P0537,4/13/2025,4/17/2025,4,31,Female,Surgery,Pneumonia,397102,Improved,No,April
+P0538,2/24/2025,2/26/2025,2,11,Male,Pediatrics,Malaria,206956,Improved,Yes,February
+P0539,7/10/2025,7/20/2025,10,41,Female,Oncology,Asthma,545303,Recovered,No,July
+P0540,4/24/2025,5/7/2025,13,74,Female,Cardiology,Asthma,388909,Recovered,No,May
+P0541,12/18/2025,12/31/2025,13,23,Male,Oncology,Hypertension,485776,Recovered,No,December
+P0542,12/12/2025,12/16/2025,4,49,Male,Orthopedics,Kidney Disease,262655,Improved,No,December
+P0543,5/15/2025,5/19/2025,4,35,Female,Oncology,Stroke,550358,Recovered,No,May
+P0544,8/3/2025,8/15/2025,12,48,Male,Neurology,COVID-19,322506,Recovered,No,August
+P0545,12/18/2025,12/22/2025,4,13,Female,Pediatrics,Stroke,225393,Recovered,No,December
+P0546,3/16/2025,3/29/2025,13,20,Female,Oncology,Malaria,471276,Recovered,No,March
+P0547,6/3/2025,6/8/2025,5,72,Female,Surgery,Malaria,376253,Recovered,No,June
+P0548,11/19/2025,11/21/2025,2,58,Female,Pediatrics,Fracture,154048,Referred,No,November
+P0549,1/11/2025,1/18/2025,7,16,Male,Neurology,Heart Failure,359074,Recovered,No,January
+P0550,7/1/2025,7/7/2025,6,87,Female,Oncology,Malaria,571547,Recovered,No,July
+P0551,11/20/2025,11/23/2025,3,22,Female,Pediatrics,Diabetes,164222,Recovered,No,November
+P0552,2/10/2025,2/13/2025,3,44,Female,Emergency,Heart Failure,131533,Improved,No,February
+P0553,8/16/2025,8/29/2025,13,47,Male,Pediatrics,Hypertension,188280,Recovered,No,August
+P0554,3/6/2025,3/18/2025,12,31,Male,Pediatrics,Asthma,217501,Recovered,No,March
+P0555,2/22/2025,2/24/2025,2,9,Male,ICU,Diabetes,632021,Recovered,Yes,February
+P0556,5/15/2025,5/25/2025,10,20,Female,Cardiology,Malaria,371097,Recovered,No,May
+P0557,11/17/2025,11/20/2025,3,17,Female,Orthopedics,Malaria,242361,Recovered,Yes,November
+P0558,8/28/2025,9/11/2025,14,70,Male,ICU,COVID-19,641898,Recovered,No,September
+P0559,11/2/2025,11/10/2025,8,81,Female,Pediatrics,Malaria,193922,Recovered,No,November
+P0560,10/4/2025,10/8/2025,4,12,Male,Oncology,Hypertension,517943,Recovered,No,October
+P0561,9/25/2025,10/9/2025,14,18,Female,Neurology,Malaria,331498,Recovered,No,October
+P0562,6/3/2025,6/4/2025,1,56,Female,Surgery,Stroke,448250,Recovered,Yes,June
+P0563,7/30/2025,8/8/2025,9,56,Female,Neurology,Stroke,291400,Recovered,No,August
+P0564,5/15/2025,5/17/2025,2,55,Female,Orthopedics,Heart Failure,287713,Improved,No,May
+P0565,11/29/2025,12/11/2025,12,69,Male,Surgery,Heart Failure,424120,Recovered,Yes,December
+P0566,2/26/2025,3/9/2025,11,59,Female,Orthopedics,Hypertension,255669,Recovered,No,March
+P0567,3/19/2025,3/20/2025,1,69,Male,Cardiology,Stroke,333405,Recovered,Yes,March
+P0568,2/16/2025,2/19/2025,3,2,Female,Oncology,Fracture,514815,Improved,No,February
+P0569,8/26/2025,9/7/2025,12,5,Female,Emergency,Diabetes,188378,Recovered,No,September
+P0570,10/6/2025,10/14/2025,8,24,Male,Emergency,Stroke,122778,Improved,No,October
+P0571,7/17/2025,7/30/2025,13,57,Male,Emergency,Kidney Disease,94392,Improved,No,July
+P0572,12/7/2025,12/11/2025,4,61,Male,Neurology,Heart Failure,310908,Improved,No,December
+P0573,9/4/2025,9/15/2025,11,39,Male,Emergency,Stroke,96827,Recovered,No,September
+P0574,11/21/2025,11/28/2025,7,42,Male,Cardiology,Hypertension,424122,Recovered,No,November
+P0575,1/22/2025,2/1/2025,10,89,Male,Oncology,Pneumonia,548146,Improved,Yes,February
+P0576,9/13/2025,9/15/2025,2,88,Male,Orthopedics,Pneumonia,319557,Recovered,Yes,September
+P0577,9/7/2025,9/11/2025,4,41,Female,ICU,Stroke,673358,Recovered,No,September
+P0578,1/11/2025,1/23/2025,12,49,Female,Neurology,Kidney Disease,287659,Recovered,No,January
+P0579,5/31/2025,6/9/2025,9,90,Female,Oncology,Heart Failure,544278,Recovered,Yes,June
+P0580,11/3/2025,11/17/2025,14,71,Female,Emergency,Kidney Disease,159617,Recovered,Yes,November
+P0581,7/7/2025,7/15/2025,8,1,Male,Surgery,COVID-19,436316,Recovered,No,July
+P0582,7/6/2025,7/19/2025,13,80,Female,Emergency,Stroke,184503,Referred,Yes,July
+P0583,9/26/2025,10/7/2025,11,64,Male,Surgery,Diabetes,390202,Recovered,No,October
+P0584,9/25/2025,10/6/2025,11,9,Male,Cardiology,Malaria,337009,Recovered,No,October
+P0585,4/9/2025,4/11/2025,2,5,Female,Orthopedics,Hypertension,329615,Recovered,No,April
+P0586,7/7/2025,7/11/2025,4,78,Male,Pediatrics,Malaria,121715,Recovered,No,July
+P0587,11/24/2025,11/25/2025,1,47,Female,Orthopedics,Kidney Disease,274519,Recovered,No,November
+P0588,1/21/2025,2/2/2025,12,10,Male,Surgery,Diabetes,380215,Referred,No,February
+P0589,4/29/2025,5/8/2025,9,50,Male,Emergency,Kidney Disease,158969,Recovered,No,May
+P0590,10/13/2025,10/20/2025,7,14,Female,Surgery,Diabetes,445571,Recovered,No,October
+P0591,3/27/2025,4/9/2025,13,24,Female,Orthopedics,Fracture,286151,Recovered,No,April
+P0592,6/11/2025,6/20/2025,9,42,Female,Surgery,COVID-19,424046,Recovered,No,June
+P0593,5/4/2025,5/14/2025,10,70,Female,Emergency,Malaria,190362,Recovered,No,May
+P0594,7/23/2025,7/24/2025,1,5,Female,ICU,Hypertension,648087,Recovered,Yes,July
+P0595,6/3/2025,6/7/2025,4,28,Female,Surgery,Kidney Disease,372844,Referred,No,June
+P0596,9/19/2025,9/28/2025,9,74,Male,ICU,Pneumonia,590278,Recovered,Yes,September
+P0597,5/16/2025,5/22/2025,6,75,Male,Emergency,Diabetes,123586,Recovered,No,May
+P0598,6/16/2025,6/29/2025,13,62,Male,Emergency,COVID-19,198226,Improved,No,June
+P0599,11/25/2025,11/30/2025,5,5,Female,Pediatrics,Fracture,195534,Improved,No,November
+P0600,8/11/2025,8/18/2025,7,16,Male,Surgery,Asthma,399716,Improved,No,August
+P0601,1/28/2025,2/2/2025,5,68,Male,Cardiology,Hypertension,390769,Recovered,No,February
+P0602,12/11/2025,12/23/2025,12,51,Male,ICU,Asthma,668676,Recovered,No,December
+P0603,5/29/2025,6/11/2025,13,51,Male,Emergency,Kidney Disease,134062,Recovered,No,June
+P0604,7/24/2025,7/29/2025,5,11,Male,Neurology,Malaria,326949,Recovered,No,July
+P0605,10/14/2025,10/18/2025,4,63,Male,Neurology,Stroke,344885,Recovered,Yes,October
+P0606,2/6/2025,2/11/2025,5,56,Female,Emergency,Fracture,165499,Recovered,No,February
+P0607,6/28/2025,7/2/2025,4,42,Female,Neurology,COVID-19,355905,Recovered,Yes,July
+P0608,8/15/2025,8/25/2025,10,19,Male,Oncology,Diabetes,577239,Recovered,No,August
+P0609,2/27/2025,3/11/2025,12,7,Female,Emergency,Hypertension,171396,Improved,No,March
+P0610,6/25/2025,7/7/2025,12,15,Male,Emergency,Stroke,151759,Recovered,Yes,July
+P0611,10/7/2025,10/16/2025,9,34,Male,Orthopedics,Asthma,301663,Recovered,No,October
+P0612,10/26/2025,11/6/2025,11,68,Female,Cardiology,Hypertension,342324,Recovered,Yes,November
+P0613,8/27/2025,9/7/2025,11,2,Female,Cardiology,Diabetes,406556,Improved,No,September
+P0614,1/10/2025,1/15/2025,5,84,Female,Neurology,COVID-19,319899,Referred,No,January
+P0615,9/30/2025,10/2/2025,2,24,Female,Emergency,Fracture,150029,Recovered,No,October
+P0616,9/8/2025,9/15/2025,7,21,Male,Cardiology,Kidney Disease,409694,Recovered,No,September
+P0617,5/22/2025,6/4/2025,13,8,Male,Orthopedics,Kidney Disease,270747,Improved,No,June
+P0618,5/24/2025,5/28/2025,4,20,Female,Neurology,Kidney Disease,321491,Recovered,No,May
+P0619,12/14/2025,12/24/2025,10,81,Female,Pediatrics,COVID-19,174700,Recovered,Yes,December
+P0620,6/18/2025,6/26/2025,8,70,Male,Cardiology,Pneumonia,405520,Recovered,Yes,June
+P0621,6/8/2025,6/20/2025,12,68,Male,Surgery,Fracture,426369,Recovered,No,June
+P0622,2/4/2025,2/13/2025,9,69,Male,ICU,Hypertension,585517,Improved,Yes,February
+P0623,6/13/2025,6/20/2025,7,53,Female,Emergency,Pneumonia,187728,Improved,No,June
+P0624,4/7/2025,4/9/2025,2,17,Male,Emergency,COVID-19,189935,Recovered,No,April
+P0625,4/29/2025,5/3/2025,4,88,Female,Cardiology,Fracture,330417,Recovered,No,May
+P0626,4/5/2025,4/19/2025,14,50,Female,Oncology,Hypertension,488024,Recovered,No,April
+P0627,5/19/2025,5/26/2025,7,29,Female,Pediatrics,COVID-19,146585,Recovered,No,May
+P0628,9/8/2025,9/20/2025,12,42,Female,Surgery,Fracture,402346,Improved,No,September
+P0629,7/21/2025,7/31/2025,10,74,Male,Orthopedics,Malaria,288843,Recovered,No,July
+P0630,8/22/2025,9/5/2025,14,6,Male,Surgery,Kidney Disease,402207,Recovered,No,September
+P0631,7/18/2025,7/27/2025,9,81,Female,ICU,Malaria,594884,Recovered,No,July
+P0632,3/27/2025,4/3/2025,7,38,Female,Orthopedics,Malaria,227149,Referred,No,April
+P0633,2/16/2025,2/28/2025,12,65,Female,Cardiology,Asthma,422069,Recovered,No,February
+P0634,6/15/2025,6/23/2025,8,4,Female,Emergency,Diabetes,167373,Improved,No,June
+P0635,5/9/2025,5/15/2025,6,89,Male,Pediatrics,Malaria,213253,Recovered,No,May
+P0636,11/21/2025,11/27/2025,6,11,Male,Orthopedics,Asthma,270343,Referred,No,November
+P0637,10/9/2025,10/16/2025,7,6,Male,Surgery,Pneumonia,413934,Recovered,No,October
+P0638,3/16/2025,3/19/2025,3,7,Female,Neurology,Pneumonia,310569,Referred,No,March
+P0639,3/2/2025,3/5/2025,3,26,Female,Cardiology,Kidney Disease,420321,Recovered,No,March
+P0640,1/3/2025,1/13/2025,10,64,Male,Emergency,Stroke,167183,Recovered,No,January
+P0641,10/8/2025,10/13/2025,5,80,Female,Orthopedics,Hypertension,327494,Recovered,Yes,October
+P0642,3/16/2025,3/30/2025,14,5,Male,Pediatrics,Hypertension,229840,Recovered,No,March
+P0643,2/25/2025,3/4/2025,7,23,Male,Emergency,Malaria,127274,Recovered,No,March
+P0644,10/24/2025,10/30/2025,6,5,Male,Cardiology,Asthma,359229,Improved,No,October
+P0645,10/9/2025,10/11/2025,2,38,Male,Oncology,Stroke,485993,Recovered,No,October
+P0646,11/10/2025,11/11/2025,1,14,Female,Orthopedics,Asthma,302441,Improved,No,November
+P0647,11/8/2025,11/22/2025,14,41,Male,Emergency,COVID-19,165385,Recovered,No,November
+P0648,10/16/2025,10/24/2025,8,67,Female,Pediatrics,Stroke,185239,Recovered,No,October
+P0649,1/1/2025,1/3/2025,2,4,Female,Oncology,Asthma,574429,Improved,Yes,January
+P0650,1/24/2025,1/30/2025,6,45,Female,Orthopedics,Heart Failure,303558,Recovered,No,January
+P0651,2/4/2025,2/9/2025,5,39,Female,Oncology,Fracture,512457,Recovered,No,February
+P0652,7/22/2025,8/3/2025,12,73,Female,Orthopedics,Malaria,223816,Improved,No,August
+P0653,1/19/2025,1/30/2025,11,18,Female,Oncology,Malaria,552208,Improved,No,January
+P0654,7/31/2025,8/12/2025,12,8,Male,Surgery,Stroke,409235,Recovered,No,August
+P0655,10/23/2025,11/3/2025,11,43,Female,Surgery,Hypertension,474304,Referred,No,November
+P0656,6/23/2025,6/30/2025,7,81,Female,Orthopedics,Fracture,241753,Recovered,No,June
+P0657,12/30/2025,12/31/2025,1,35,Female,Neurology,Stroke,335149,Improved,No,December
+P0658,9/26/2025,10/1/2025,5,23,Male,Cardiology,Malaria,422884,Recovered,Yes,October
+P0659,9/17/2025,9/18/2025,1,62,Female,Surgery,Fracture,390195,Referred,Yes,September
+P0660,3/15/2025,3/28/2025,13,13,Male,Surgery,Malaria,437652,Recovered,No,March
+P0661,7/18/2025,7/30/2025,12,67,Male,Cardiology,Fracture,360760,Recovered,No,July
+P0662,8/28/2025,8/29/2025,1,14,Male,Orthopedics,Fracture,306374,Improved,Yes,August
+P0663,4/13/2025,4/17/2025,4,37,Female,Emergency,Pneumonia,131831,Recovered,No,April
+P0664,3/22/2025,3/27/2025,5,15,Female,Cardiology,Kidney Disease,401650,Recovered,No,March
+P0665,6/13/2025,6/18/2025,5,19,Male,ICU,Heart Failure,675382,Recovered,No,June
+P0666,11/10/2025,11/16/2025,6,70,Male,Oncology,Diabetes,487049,Referred,Yes,November
+P0667,7/16/2025,7/17/2025,1,12,Female,Neurology,COVID-19,293459,Recovered,No,July
+P0668,7/2/2025,7/7/2025,5,43,Male,Surgery,Malaria,463441,Improved,No,July
+P0669,10/18/2025,10/21/2025,3,12,Female,Surgery,Malaria,461566,Recovered,No,October
+P0670,4/29/2025,5/3/2025,4,19,Male,Surgery,Fracture,450863,Recovered,No,May
+P0671,6/16/2025,6/24/2025,8,63,Male,Cardiology,Heart Failure,382303,Recovered,Yes,June
+P0672,6/28/2025,7/8/2025,10,74,Male,Cardiology,Heart Failure,333491,Recovered,No,July
+P0673,9/30/2025,10/8/2025,8,52,Female,Orthopedics,Asthma,251270,Recovered,No,October
+P0674,2/3/2025,2/9/2025,6,27,Female,Surgery,Kidney Disease,447459,Deceased,No,February
+P0675,12/22/2025,12/26/2025,4,23,Female,Pediatrics,Diabetes,130209,Improved,No,December
+P0676,10/31/2025,11/10/2025,10,60,Female,Emergency,Diabetes,102799,Recovered,No,November
+P0677,11/3/2025,11/5/2025,2,88,Male,Surgery,Pneumonia,471101,Recovered,No,November
+P0678,10/25/2025,11/7/2025,13,82,Female,Surgery,Asthma,469231,Recovered,Yes,November
+P0679,11/12/2025,11/22/2025,10,58,Female,Emergency,Asthma,179327,Recovered,No,November
+P0680,6/26/2025,6/28/2025,2,75,Female,Cardiology,Kidney Disease,386902,Recovered,Yes,June
+P0681,1/28/2025,1/29/2025,1,72,Male,Surgery,Stroke,417086,Recovered,Yes,January
+P0682,8/10/2025,8/22/2025,12,76,Male,Neurology,Pneumonia,311697,Recovered,No,August
+P0683,9/1/2025,9/4/2025,3,25,Male,Orthopedics,Pneumonia,267223,Recovered,No,September
+P0684,1/6/2025,1/8/2025,2,83,Male,Cardiology,Asthma,414547,Recovered,No,January
+P0685,8/22/2025,9/4/2025,13,90,Female,Orthopedics,Asthma,275797,Recovered,No,September
+P0686,7/1/2025,7/5/2025,4,24,Male,Neurology,Kidney Disease,270973,Improved,No,July
+P0687,5/18/2025,5/25/2025,7,70,Male,Orthopedics,COVID-19,224385,Improved,No,May
+P0688,9/4/2025,9/16/2025,12,11,Female,Emergency,Malaria,185852,Improved,No,September
+P0689,9/22/2025,9/24/2025,2,67,Male,Surgery,Kidney Disease,381592,Recovered,Yes,September
+P0690,10/24/2025,10/29/2025,5,79,Female,Cardiology,COVID-19,365029,Recovered,Yes,October
+P0691,6/19/2025,6/26/2025,7,46,Female,ICU,COVID-19,674624,Recovered,No,June
+P0692,5/14/2025,5/15/2025,1,81,Male,Oncology,Heart Failure,492161,Improved,No,May
+P0693,9/6/2025,9/8/2025,2,17,Female,Oncology,Hypertension,572729,Recovered,No,September
+P0694,2/27/2025,3/9/2025,10,23,Male,Surgery,Heart Failure,466857,Recovered,No,March
+P0695,12/25/2025,12/29/2025,4,63,Male,Emergency,COVID-19,159125,Recovered,No,December
+P0696,3/20/2025,4/3/2025,14,64,Male,Pediatrics,Stroke,174125,Recovered,No,April
+P0697,10/23/2025,11/4/2025,12,45,Male,Cardiology,Malaria,354654,Recovered,No,November
+P0698,7/24/2025,8/1/2025,8,39,Female,Oncology,Malaria,568622,Recovered,No,August
+P0699,5/15/2025,5/18/2025,3,68,Female,Surgery,Kidney Disease,371554,Recovered,No,May
+P0700,12/16/2025,12/17/2025,1,13,Female,Surgery,Fracture,453548,Recovered,No,December
+P0701,5/19/2025,5/24/2025,5,13,Male,Emergency,COVID-19,166569,Improved,No,May
+P0702,4/10/2025,4/19/2025,9,44,Male,Pediatrics,Diabetes,143582,Recovered,No,April
+P0703,1/7/2025,1/14/2025,7,13,Female,Orthopedics,Heart Failure,309849,Recovered,No,January
+P0704,4/9/2025,4/10/2025,1,4,Male,Orthopedics,Diabetes,227455,Improved,No,April
+P0705,2/14/2025,2/28/2025,14,78,Male,Cardiology,Diabetes,406034,Improved,No,February
+P0706,12/23/2025,12/26/2025,3,33,Female,Emergency,Asthma,176570,Recovered,No,December
+P0707,12/21/2025,1/1/2026,11,42,Female,Emergency,Asthma,192332,Improved,Yes,January
+P0708,6/20/2025,6/21/2025,1,34,Male,ICU,COVID-19,604690,Recovered,Yes,June
+P0709,7/21/2025,7/24/2025,3,83,Male,Oncology,Malaria,488857,Recovered,No,July
+P0710,5/13/2025,5/15/2025,2,5,Female,Cardiology,Pneumonia,394887,Recovered,No,May
+P0711,12/1/2025,12/12/2025,11,1,Female,ICU,Asthma,657111,Recovered,No,December
+P0712,10/22/2025,10/23/2025,1,66,Male,Pediatrics,Kidney Disease,221055,Improved,No,October
+P0713,4/26/2025,4/27/2025,1,50,Female,ICU,Fracture,677213,Recovered,No,April
+P0714,12/16/2025,12/21/2025,5,52,Female,Cardiology,Diabetes,404813,Recovered,No,December
+P0715,8/24/2025,9/6/2025,13,38,Male,Pediatrics,Heart Failure,143149,Referred,No,September
+P0716,12/23/2025,12/30/2025,7,14,Female,Orthopedics,Stroke,267089,Improved,No,December
+P0717,3/13/2025,3/14/2025,1,25,Female,Cardiology,Malaria,397718,Recovered,Yes,March
+P0718,10/1/2025,10/15/2025,14,58,Male,ICU,Asthma,572151,Recovered,Yes,October
+P0719,3/2/2025,3/6/2025,4,84,Male,Pediatrics,Diabetes,180079,Recovered,No,March
+P0720,1/19/2025,1/31/2025,12,19,Male,Oncology,Stroke,472498,Referred,No,January
+P0721,12/26/2025,1/6/2026,11,17,Male,Cardiology,Malaria,402924,Recovered,Yes,January
+P0722,11/9/2025,11/12/2025,3,76,Male,Cardiology,Diabetes,427147,Recovered,Yes,November
+P0723,4/14/2025,4/21/2025,7,44,Male,Surgery,Fracture,466721,Recovered,No,April
+P0724,4/20/2025,5/3/2025,13,6,Female,Orthopedics,Pneumonia,263975,Recovered,Yes,May
+P0725,12/23/2025,12/29/2025,6,71,Female,Emergency,Pneumonia,121934,Recovered,Yes,December
+P0726,1/9/2025,1/17/2025,8,11,Female,Cardiology,Asthma,343516,Improved,No,January
+P0727,12/22/2025,1/4/2026,13,61,Female,Pediatrics,Asthma,147021,Recovered,Yes,January
+P0728,5/3/2025,5/6/2025,3,79,Male,Pediatrics,Heart Failure,198154,Recovered,Yes,May
+P0729,6/28/2025,7/5/2025,7,1,Male,Orthopedics,COVID-19,245153,Recovered,No,July
+P0730,7/5/2025,7/19/2025,14,70,Male,Oncology,Diabetes,530845,Recovered,No,July
+P0731,3/18/2025,3/29/2025,11,61,Female,Oncology,Stroke,490940,Recovered,Yes,March
+P0732,8/11/2025,8/16/2025,5,43,Male,Orthopedics,Kidney Disease,319406,Recovered,No,August
+P0733,4/1/2025,4/4/2025,3,4,Female,Oncology,COVID-19,485212,Recovered,Yes,April
+P0734,10/24/2025,10/30/2025,6,54,Male,Emergency,Fracture,178716,Recovered,No,October
+P0735,4/27/2025,4/29/2025,2,31,Female,Pediatrics,Hypertension,146208,Recovered,No,April
+P0736,8/12/2025,8/15/2025,3,28,Female,ICU,Stroke,629636,Recovered,No,August
+P0737,11/20/2025,11/26/2025,6,35,Female,Emergency,Pneumonia,106673,Recovered,Yes,November
+P0738,2/26/2025,3/12/2025,14,60,Female,Oncology,COVID-19,492439,Recovered,No,March
+P0739,3/22/2025,4/4/2025,13,82,Female,ICU,Kidney Disease,592273,Recovered,No,April
+P0740,9/8/2025,9/22/2025,14,28,Female,Orthopedics,Stroke,329705,Recovered,No,September
+P0741,5/7/2025,5/13/2025,6,56,Male,Orthopedics,Asthma,297564,Referred,No,May
+P0742,1/23/2025,1/24/2025,1,61,Female,Pediatrics,Diabetes,186088,Recovered,Yes,January
+P0743,8/20/2025,8/28/2025,8,31,Male,Cardiology,Pneumonia,418707,Improved,Yes,August
+P0744,7/3/2025,7/8/2025,5,31,Male,Pediatrics,Malaria,131892,Recovered,Yes,July
+P0745,10/20/2025,11/1/2025,12,75,Male,Cardiology,Fracture,379616,Improved,No,November
+P0746,11/17/2025,11/25/2025,8,82,Female,Cardiology,Kidney Disease,402222,Improved,Yes,November
+P0747,1/17/2025,1/22/2025,5,55,Male,Pediatrics,Diabetes,211495,Recovered,No,January
+P0748,11/14/2025,11/20/2025,6,8,Female,Oncology,Fracture,558428,Recovered,No,November
+P0749,8/27/2025,9/6/2025,10,6,Male,Neurology,Pneumonia,292972,Improved,No,September
+P0750,6/21/2025,6/25/2025,4,70,Male,Cardiology,Stroke,382717,Improved,No,June
+P0751,6/14/2025,6/20/2025,6,35,Female,Oncology,Malaria,525434,Recovered,No,June
+P0752,9/6/2025,9/15/2025,9,68,Female,Surgery,Malaria,431625,Recovered,No,September
+P0753,11/14/2025,11/20/2025,6,87,Female,ICU,Diabetes,676010,Recovered,No,November
+P0754,2/11/2025,2/18/2025,7,23,Male,Emergency,Malaria,100085,Recovered,No,February
+P0755,3/19/2025,4/2/2025,14,27,Male,Orthopedics,Malaria,302218,Recovered,Yes,April
+P0756,6/27/2025,7/4/2025,7,57,Male,Pediatrics,Kidney Disease,122815,Recovered,No,July
+P0757,11/27/2025,12/3/2025,6,53,Female,Orthopedics,Malaria,305951,Recovered,No,December
+P0758,6/5/2025,6/15/2025,10,17,Female,Surgery,Fracture,410172,Recovered,No,June
+P0759,5/28/2025,6/10/2025,13,7,Male,Emergency,Kidney Disease,127274,Recovered,No,June
+P0760,5/27/2025,5/30/2025,3,23,Male,Surgery,Stroke,460814,Improved,No,May
+P0761,3/1/2025,3/2/2025,1,41,Male,Orthopedics,Fracture,277788,Recovered,No,March
+P0762,6/26/2025,6/29/2025,3,48,Male,Oncology,Asthma,491311,Recovered,No,June
+P0763,9/13/2025,9/26/2025,13,19,Female,ICU,Heart Failure,611971,Referred,No,September
+P0764,8/31/2025,9/5/2025,5,74,Male,Pediatrics,Malaria,224802,Recovered,No,September
+P0765,1/21/2025,1/24/2025,3,87,Male,Orthopedics,Malaria,260380,Recovered,Yes,January
+P0766,7/2/2025,7/4/2025,2,42,Female,Cardiology,Stroke,404058,Recovered,Yes,July
+P0767,1/12/2025,1/14/2025,2,69,Male,Surgery,Malaria,458744,Recovered,Yes,January
+P0768,6/12/2025,6/22/2025,10,78,Female,Oncology,Fracture,477346,Recovered,No,June
+P0769,7/17/2025,7/23/2025,6,2,Male,Emergency,Stroke,136052,Recovered,No,July
+P0770,8/16/2025,8/28/2025,12,54,Female,Surgery,Asthma,407831,Improved,No,August
+P0771,3/13/2025,3/27/2025,14,76,Female,Orthopedics,Diabetes,238827,Recovered,Yes,March
+P0772,10/30/2025,11/12/2025,13,49,Male,Cardiology,Kidney Disease,373668,Recovered,No,November
+P0773,8/25/2025,9/6/2025,12,73,Female,Pediatrics,Kidney Disease,137947,Improved,Yes,September
+P0774,9/9/2025,9/10/2025,1,39,Male,Surgery,Pneumonia,409834,Recovered,No,September
+P0775,5/15/2025,5/20/2025,5,82,Female,Surgery,Asthma,431936,Recovered,Yes,May
+P0776,4/2/2025,4/10/2025,8,89,Male,Pediatrics,COVID-19,123728,Recovered,Yes,April
+P0777,7/5/2025,7/15/2025,10,62,Male,Orthopedics,Fracture,253804,Recovered,No,July
+P0778,9/20/2025,10/2/2025,12,74,Female,Cardiology,Malaria,354018,Recovered,Yes,October
+P0779,12/21/2025,12/24/2025,3,46,Female,Emergency,Hypertension,125739,Recovered,No,December
+P0780,5/29/2025,6/3/2025,5,68,Male,Orthopedics,COVID-19,230069,Recovered,No,June
+P0781,3/27/2025,4/5/2025,9,42,Female,Surgery,Fracture,478373,Improved,No,April
+P0782,2/19/2025,2/28/2025,9,75,Female,Neurology,Malaria,288837,Recovered,Yes,February
+P0783,7/30/2025,8/5/2025,6,21,Male,Cardiology,Asthma,340257,Improved,No,August
+P0784,8/24/2025,8/26/2025,2,15,Female,Surgery,COVID-19,372277,Recovered,No,August
+P0785,9/25/2025,10/8/2025,13,44,Male,Emergency,Pneumonia,129935,Improved,Yes,October
+P0786,12/22/2025,12/25/2025,3,89,Female,Emergency,Diabetes,106429,Deceased,Yes,December
+P0787,2/9/2025,2/10/2025,1,62,Male,Pediatrics,Malaria,125572,Recovered,Yes,February
+P0788,3/2/2025,3/7/2025,5,6,Male,Cardiology,COVID-19,407501,Recovered,Yes,March
+P0789,4/16/2025,4/26/2025,10,26,Female,Emergency,COVID-19,136076,Recovered,Yes,April
+P0790,6/28/2025,7/4/2025,6,21,Male,Surgery,Diabetes,472341,Recovered,No,July
+P0791,10/24/2025,11/6/2025,13,2,Male,Orthopedics,Diabetes,313822,Recovered,No,November
+P0792,4/20/2025,4/29/2025,9,61,Male,Neurology,Pneumonia,347251,Recovered,Yes,April
+P0793,7/1/2025,7/8/2025,7,55,Female,Emergency,Diabetes,119825,Improved,No,July
+P0794,8/27/2025,8/29/2025,2,67,Female,Cardiology,Diabetes,419912,Recovered,No,August
+P0795,7/17/2025,7/22/2025,5,59,Male,Orthopedics,Kidney Disease,260895,Improved,No,July
+P0796,7/28/2025,8/2/2025,5,55,Female,Emergency,Pneumonia,99123,Improved,No,August
+P0797,1/7/2025,1/18/2025,11,63,Male,Pediatrics,Asthma,171952,Recovered,No,January
+P0798,7/25/2025,8/6/2025,12,76,Male,ICU,Fracture,667180,Recovered,No,August
+P0799,4/13/2025,4/23/2025,10,52,Female,Cardiology,Asthma,429852,Recovered,No,April
+P0800,7/2/2025,7/10/2025,8,86,Female,Orthopedics,Diabetes,273011,Recovered,No,July
+P0801,3/4/2025,3/9/2025,5,63,Male,Oncology,Malaria,552361,Improved,Yes,March
+P0802,12/14/2025,12/15/2025,1,23,Male,Neurology,Kidney Disease,359024,Recovered,No,December
+P0803,9/10/2025,9/23/2025,13,60,Female,Emergency,Kidney Disease,176781,Recovered,No,September
+P0804,10/7/2025,10/8/2025,1,5,Female,ICU,Hypertension,585615,Recovered,No,October
+P0805,1/17/2025,1/20/2025,3,72,Male,Pediatrics,Heart Failure,222155,Recovered,No,January
+P0806,7/19/2025,7/27/2025,8,15,Female,Orthopedics,Malaria,284297,Recovered,No,July
+P0807,10/15/2025,10/29/2025,14,21,Female,Oncology,COVID-19,521299,Recovered,No,October
+P0808,12/13/2025,12/19/2025,6,37,Female,Emergency,Fracture,93689,Recovered,No,December
+P0809,10/26/2025,10/27/2025,1,81,Male,Neurology,Stroke,282759,Recovered,No,October
+P0810,5/1/2025,5/12/2025,11,40,Female,Orthopedics,Pneumonia,310176,Recovered,Yes,May
+P0811,1/11/2025,1/20/2025,9,42,Female,Cardiology,Heart Failure,406214,Recovered,No,January
+P0812,1/11/2025,1/23/2025,12,61,Female,Orthopedics,Diabetes,261486,Recovered,No,January
+P0813,12/20/2025,12/31/2025,11,27,Male,Emergency,COVID-19,155898,Recovered,No,December
+P0814,6/3/2025,6/9/2025,6,56,Male,Emergency,Heart Failure,173288,Improved,No,June
+P0815,5/16/2025,5/17/2025,1,39,Male,ICU,COVID-19,622694,Referred,No,May
+P0816,6/22/2025,6/27/2025,5,9,Male,Orthopedics,Heart Failure,289607,Recovered,No,June
+P0817,9/16/2025,9/29/2025,13,39,Female,Neurology,COVID-19,340772,Recovered,No,September
+P0818,9/21/2025,9/29/2025,8,86,Male,Surgery,COVID-19,393671,Recovered,No,September
+P0819,9/13/2025,9/17/2025,4,85,Female,ICU,COVID-19,667282,Recovered,No,September
+P0820,11/17/2025,11/18/2025,1,67,Female,Emergency,Asthma,150619,Recovered,Yes,November
+P0821,7/30/2025,8/5/2025,6,9,Male,Orthopedics,Heart Failure,274059,Recovered,No,August
+P0822,12/18/2025,12/28/2025,10,31,Female,Neurology,Malaria,284884,Recovered,No,December
+P0823,9/6/2025,9/15/2025,9,56,Male,Neurology,Heart Failure,274850,Recovered,No,September
+P0824,5/23/2025,6/3/2025,11,71,Male,Emergency,Fracture,95535,Recovered,No,June
+P0825,11/5/2025,11/10/2025,5,9,Male,Surgery,Asthma,423347,Recovered,No,November
+P0826,3/13/2025,3/17/2025,4,15,Female,Orthopedics,Malaria,285568,Recovered,No,March
+P0827,2/16/2025,2/20/2025,4,77,Male,Cardiology,Asthma,425734,Improved,No,February
+P0828,4/22/2025,4/25/2025,3,14,Male,Emergency,Malaria,125985,Recovered,No,April
+P0829,10/1/2025,10/7/2025,6,90,Female,ICU,Pneumonia,611482,Recovered,No,October
+P0830,7/5/2025,7/13/2025,8,48,Male,Surgery,Hypertension,372762,Referred,No,July
+P0831,12/20/2025,1/2/2026,13,86,Male,Emergency,Kidney Disease,162447,Improved,No,January
+P0832,5/2/2025,5/16/2025,14,57,Female,Neurology,Diabetes,321508,Referred,No,May
+P0833,5/1/2025,5/6/2025,5,27,Female,Surgery,Hypertension,391001,Recovered,No,May
+P0834,5/21/2025,6/4/2025,14,11,Female,Surgery,Asthma,434447,Recovered,No,June
+P0835,2/21/2025,3/7/2025,14,21,Female,Pediatrics,Malaria,186366,Recovered,Yes,March
+P0836,12/22/2025,12/23/2025,1,7,Female,Pediatrics,Stroke,144083,Recovered,No,December
+P0837,11/18/2025,11/23/2025,5,41,Male,Orthopedics,COVID-19,234526,Recovered,No,November
+P0838,12/18/2025,12/25/2025,7,41,Female,Oncology,Heart Failure,566360,Recovered,No,December
+P0839,4/12/2025,4/14/2025,2,54,Male,Neurology,Hypertension,321576,Improved,No,April
+P0840,1/12/2025,1/21/2025,9,83,Male,Orthopedics,Hypertension,249977,Recovered,No,January
+P0841,7/25/2025,8/4/2025,10,55,Male,Orthopedics,Hypertension,239562,Recovered,No,August
+P0842,9/27/2025,10/4/2025,7,59,Male,Surgery,Heart Failure,434769,Improved,No,October
+P0843,5/28/2025,6/9/2025,12,64,Female,Neurology,Stroke,326532,Deceased,No,June
+P0844,8/3/2025,8/6/2025,3,53,Female,Surgery,Stroke,373771,Recovered,No,August
+P0845,7/9/2025,7/19/2025,10,88,Female,Pediatrics,Asthma,131237,Recovered,Yes,July
+P0846,12/18/2025,12/22/2025,4,50,Male,Pediatrics,Hypertension,216482,Recovered,No,December
+P0847,6/20/2025,6/24/2025,4,61,Male,Surgery,Hypertension,449478,Recovered,No,June
+P0848,5/10/2025,5/19/2025,9,80,Male,Neurology,COVID-19,321733,Improved,No,May
+P0849,4/2/2025,4/7/2025,5,22,Female,Oncology,Kidney Disease,514456,Recovered,No,April
+P0850,8/10/2025,8/13/2025,3,34,Female,Cardiology,Fracture,325788,Recovered,No,August
+P0851,8/9/2025,8/14/2025,5,34,Female,Orthopedics,Pneumonia,319819,Recovered,No,August
+P0852,6/11/2025,6/23/2025,12,63,Female,Surgery,Hypertension,389826,Recovered,No,June
+P0853,4/7/2025,4/10/2025,3,7,Female,Emergency,Asthma,94700,Recovered,No,April
+P0854,3/1/2025,3/9/2025,8,6,Male,Oncology,Pneumonia,562933,Recovered,No,March
+P0855,3/5/2025,3/11/2025,6,12,Female,Emergency,COVID-19,127239,Recovered,No,March
+P0856,12/6/2025,12/16/2025,10,28,Female,Orthopedics,Diabetes,220540,Recovered,No,December
+P0857,5/7/2025,5/20/2025,13,64,Male,Pediatrics,Asthma,163077,Recovered,Yes,May
+P0858,7/11/2025,7/21/2025,10,14,Female,Surgery,Malaria,390155,Recovered,Yes,July
+P0859,11/18/2025,11/23/2025,5,77,Female,Pediatrics,COVID-19,163178,Referred,No,November
+P0860,3/8/2025,3/12/2025,4,7,Male,Surgery,Kidney Disease,407087,Recovered,No,March
+P0861,11/5/2025,11/12/2025,7,12,Female,Neurology,Diabetes,293332,Improved,No,November
+P0862,1/11/2025,1/25/2025,14,27,Male,Emergency,Diabetes,192169,Recovered,No,January
+P0863,6/2/2025,6/10/2025,8,56,Female,Pediatrics,Diabetes,160645,Recovered,No,June
+P0864,7/8/2025,7/17/2025,9,26,Female,Oncology,Diabetes,520867,Recovered,No,July
+P0865,8/5/2025,8/18/2025,13,48,Female,Orthopedics,Malaria,276899,Recovered,No,August
+P0866,12/13/2025,12/17/2025,4,83,Male,Pediatrics,Heart Failure,140325,Recovered,No,December
+P0867,8/28/2025,9/4/2025,7,11,Female,Surgery,Stroke,432601,Deceased,No,September
+P0868,9/25/2025,10/2/2025,7,38,Male,Orthopedics,Kidney Disease,292219,Recovered,Yes,October
+P0869,8/6/2025,8/13/2025,7,13,Female,Oncology,COVID-19,564412,Recovered,No,August
+P0870,2/11/2025,2/24/2025,13,65,Female,Cardiology,Hypertension,417060,Recovered,No,February
+P0871,2/12/2025,2/19/2025,7,39,Female,Emergency,Fracture,184908,Recovered,No,February
+P0872,4/6/2025,4/10/2025,4,24,Female,Cardiology,Kidney Disease,399174,Recovered,No,April
+P0873,1/10/2025,1/11/2025,1,51,Female,Cardiology,Heart Failure,342509,Recovered,No,January
+P0874,11/13/2025,11/27/2025,14,79,Male,Neurology,Pneumonia,358316,Improved,No,November
+P0875,3/11/2025,3/12/2025,1,25,Female,Cardiology,Pneumonia,322082,Recovered,No,March
+P0876,11/29/2025,12/3/2025,4,56,Female,Surgery,Pneumonia,473548,Recovered,No,December
+P0877,8/31/2025,9/7/2025,7,3,Female,Cardiology,Malaria,339978,Recovered,No,September
+P0878,1/11/2025,1/25/2025,14,58,Female,Orthopedics,Hypertension,246389,Improved,No,January
+P0879,6/20/2025,6/21/2025,1,14,Female,Orthopedics,Hypertension,313466,Recovered,No,June
+P0880,9/7/2025,9/14/2025,7,63,Female,Oncology,Stroke,564976,Improved,No,September
+P0881,2/1/2025,2/10/2025,9,3,Female,Neurology,Malaria,311399,Recovered,No,February
+P0882,3/1/2025,3/9/2025,8,80,Male,ICU,Malaria,615451,Recovered,No,March
+P0883,6/26/2025,7/4/2025,8,30,Female,Oncology,Pneumonia,547025,Recovered,No,July
+P0884,5/31/2025,6/12/2025,12,50,Female,ICU,Malaria,679193,Recovered,No,June
+P0885,3/24/2025,4/3/2025,10,27,Male,Emergency,Stroke,188206,Recovered,No,April
+P0886,3/22/2025,4/1/2025,10,63,Male,Cardiology,Hypertension,374523,Recovered,No,April
+P0887,7/3/2025,7/8/2025,5,46,Male,Pediatrics,Diabetes,142900,Improved,No,July
+P0888,6/22/2025,6/29/2025,7,15,Female,Orthopedics,Fracture,235818,Recovered,No,June
+P0889,1/24/2025,2/6/2025,13,72,Male,Emergency,Hypertension,109815,Recovered,No,February
+P0890,8/13/2025,8/26/2025,13,59,Male,ICU,Kidney Disease,669059,Recovered,No,August
+P0891,1/22/2025,1/31/2025,9,14,Male,Emergency,Heart Failure,105474,Referred,No,January
+P0892,12/29/2025,1/6/2026,8,65,Male,Oncology,Diabetes,483014,Recovered,Yes,January
+P0893,4/14/2025,4/22/2025,8,54,Female,Surgery,Heart Failure,370863,Improved,No,April
+P0894,9/16/2025,9/19/2025,3,11,Male,Emergency,Pneumonia,183742,Recovered,No,September
+P0895,9/29/2025,10/6/2025,7,30,Female,Cardiology,Kidney Disease,376206,Recovered,No,October
+P0896,12/16/2025,12/22/2025,6,4,Male,Oncology,Diabetes,570945,Improved,Yes,December
+P0897,6/23/2025,6/29/2025,6,52,Male,ICU,Pneumonia,591538,Recovered,No,June
+P0898,10/22/2025,10/23/2025,1,81,Female,ICU,Fracture,674735,Recovered,No,October
+P0899,6/26/2025,6/27/2025,1,36,Male,Surgery,Kidney Disease,450006,Recovered,No,June
+P0900,11/16/2025,11/29/2025,13,80,Male,Pediatrics,Heart Failure,211418,Recovered,No,November
+P0901,2/13/2025,2/14/2025,1,69,Male,Emergency,Diabetes,185040,Recovered,No,February
+P0902,9/19/2025,9/28/2025,9,40,Female,Orthopedics,Stroke,319227,Recovered,No,September
+P0903,6/5/2025,6/17/2025,12,55,Female,ICU,Kidney Disease,584475,Improved,No,June
+P0904,7/1/2025,7/3/2025,2,7,Female,Pediatrics,Stroke,136351,Recovered,No,July
+P0905,10/25/2025,11/4/2025,10,81,Male,Pediatrics,Asthma,198059,Recovered,Yes,November
+P0906,9/24/2025,10/6/2025,12,32,Female,Cardiology,Malaria,387692,Improved,No,October
+P0907,2/20/2025,2/23/2025,3,55,Male,Surgery,Malaria,380740,Recovered,No,February
+P0908,4/20/2025,4/28/2025,8,10,Female,Neurology,Heart Failure,338977,Recovered,No,April
+P0909,10/27/2025,11/4/2025,8,82,Female,Neurology,Pneumonia,327682,Improved,No,November
+P0910,3/15/2025,3/24/2025,9,17,Male,Oncology,Stroke,529993,Improved,No,March
+P0911,8/22/2025,8/30/2025,8,5,Female,Pediatrics,Diabetes,193272,Referred,No,August
+P0912,3/3/2025,3/9/2025,6,74,Female,Emergency,Heart Failure,158521,Recovered,Yes,March
+P0913,5/31/2025,6/8/2025,8,4,Female,Surgery,Heart Failure,388630,Recovered,No,June
+P0914,4/21/2025,4/24/2025,3,63,Female,Cardiology,COVID-19,391766,Recovered,No,April
+P0915,8/20/2025,8/26/2025,6,49,Male,Oncology,Kidney Disease,564376,Recovered,No,August
+P0916,11/22/2025,11/30/2025,8,58,Female,Pediatrics,Asthma,139527,Recovered,No,November
+P0917,4/30/2025,5/7/2025,7,44,Male,Orthopedics,Pneumonia,307876,Improved,No,May
+P0918,12/29/2025,12/30/2025,1,74,Male,Orthopedics,COVID-19,321134,Recovered,No,December
+P0919,10/5/2025,10/15/2025,10,7,Male,ICU,Diabetes,638387,Recovered,No,October
+P0920,12/4/2025,12/13/2025,9,24,Female,ICU,Diabetes,606039,Recovered,No,December
+P0921,10/1/2025,10/11/2025,10,42,Female,Neurology,Asthma,275896,Referred,No,October
+P0922,4/3/2025,4/10/2025,7,4,Male,Surgery,Kidney Disease,411599,Recovered,No,April
+P0923,3/28/2025,4/2/2025,5,19,Female,Emergency,Pneumonia,190703,Recovered,No,April
+P0924,1/31/2025,2/10/2025,10,42,Female,Emergency,Pneumonia,183493,Recovered,Yes,February
+P0925,7/31/2025,8/6/2025,6,34,Male,Neurology,COVID-19,378493,Recovered,No,August
+P0926,10/28/2025,11/1/2025,4,64,Female,Oncology,Kidney Disease,536115,Recovered,No,November
+P0927,7/28/2025,7/30/2025,2,62,Female,Cardiology,Kidney Disease,403039,Improved,Yes,July
+P0928,10/28/2025,11/8/2025,11,13,Female,Emergency,Malaria,162706,Recovered,No,November
+P0929,2/12/2025,2/26/2025,14,82,Male,Oncology,Kidney Disease,572613,Deceased,No,February
+P0930,8/5/2025,8/14/2025,9,58,Female,Cardiology,Pneumonia,426514,Improved,No,August
+P0931,1/1/2025,1/2/2025,1,62,Female,Emergency,Hypertension,122884,Recovered,No,January
+P0932,3/24/2025,4/5/2025,12,69,Male,Orthopedics,Kidney Disease,259405,Recovered,Yes,April
+P0933,5/24/2025,5/31/2025,7,27,Female,Orthopedics,Heart Failure,325127,Recovered,No,May
+P0934,12/29/2025,1/6/2026,8,35,Female,Emergency,Hypertension,132157,Recovered,No,January
+P0935,12/21/2025,12/24/2025,3,83,Female,ICU,Kidney Disease,649794,Recovered,No,December
+P0936,12/23/2025,1/4/2026,12,63,Male,Surgery,Kidney Disease,440533,Improved,Yes,January
+P0937,1/16/2025,1/30/2025,14,86,Female,Oncology,Asthma,486176,Improved,No,January
+P0938,4/1/2025,4/15/2025,14,90,Male,ICU,Hypertension,586353,Recovered,No,April
+P0939,5/24/2025,6/4/2025,11,46,Male,Emergency,Stroke,196991,Recovered,No,June
+P0940,9/10/2025,9/16/2025,6,5,Male,Emergency,Asthma,182280,Recovered,No,September
+P0941,2/26/2025,3/12/2025,14,36,Male,Orthopedics,Diabetes,284751,Recovered,No,March
+P0942,10/29/2025,11/1/2025,3,9,Female,Cardiology,Stroke,394698,Improved,No,November
+P0943,12/14/2025,12/15/2025,1,89,Female,Pediatrics,Hypertension,200538,Recovered,Yes,December
+P0944,8/7/2025,8/18/2025,11,87,Female,ICU,Heart Failure,576797,Improved,No,August
+P0945,3/4/2025,3/15/2025,11,67,Male,Oncology,Heart Failure,517378,Improved,Yes,March
+P0946,8/4/2025,8/13/2025,9,58,Male,Emergency,Stroke,141361,Recovered,No,August
+P0947,12/20/2025,12/27/2025,7,10,Male,Surgery,Hypertension,395805,Recovered,No,December
+P0948,9/3/2025,9/10/2025,7,4,Male,Orthopedics,Diabetes,302090,Improved,No,September
+P0949,8/31/2025,9/4/2025,4,44,Male,Surgery,COVID-19,477693,Improved,No,September
+P0950,11/14/2025,11/22/2025,8,13,Male,Orthopedics,Asthma,295882,Referred,No,November
+P0951,6/10/2025,6/24/2025,14,89,Male,Cardiology,Heart Failure,336716,Improved,Yes,June
+P0952,11/9/2025,11/20/2025,11,56,Female,Cardiology,Asthma,408809,Recovered,Yes,November
+P0953,2/19/2025,3/1/2025,10,53,Female,Emergency,Asthma,168587,Recovered,No,March
+P0954,8/26/2025,9/8/2025,13,55,Male,Surgery,Malaria,451163,Recovered,No,September
+P0955,9/22/2025,9/28/2025,6,76,Male,Emergency,COVID-19,103459,Improved,Yes,September
+P0956,3/6/2025,3/17/2025,11,66,Male,Emergency,Hypertension,145182,Recovered,No,March
+P0957,1/31/2025,2/3/2025,3,40,Female,Orthopedics,COVID-19,287256,Improved,No,February
+P0958,10/5/2025,10/18/2025,13,19,Male,Emergency,Kidney Disease,130458,Recovered,No,October
+P0959,10/28/2025,11/8/2025,11,87,Female,Emergency,Fracture,121114,Improved,No,November
+P0960,4/11/2025,4/15/2025,4,82,Female,Surgery,Malaria,472926,Recovered,Yes,April
+P0961,11/4/2025,11/16/2025,12,43,Female,Surgery,Fracture,444199,Recovered,No,November
+P0962,3/25/2025,3/27/2025,2,59,Male,Surgery,Malaria,375530,Recovered,No,March
+P0963,11/16/2025,11/20/2025,4,31,Female,Oncology,Stroke,570708,Recovered,No,November
+P0964,7/24/2025,7/27/2025,3,1,Male,Neurology,Heart Failure,279664,Recovered,No,July
+P0965,8/14/2025,8/18/2025,4,81,Female,Orthopedics,Pneumonia,320339,Recovered,No,August
+P0966,4/23/2025,4/28/2025,5,23,Male,Emergency,Heart Failure,162680,Recovered,No,April
+P0967,2/21/2025,2/22/2025,1,87,Female,Cardiology,Malaria,405835,Referred,Yes,February
+P0968,5/3/2025,5/9/2025,6,48,Female,Pediatrics,Diabetes,189065,Deceased,No,May
+P0969,3/2/2025,3/5/2025,3,17,Female,Surgery,COVID-19,395124,Recovered,No,March
+P0970,8/8/2025,8/19/2025,11,32,Female,ICU,Pneumonia,670018,Recovered,No,August
+P0971,6/17/2025,6/21/2025,4,7,Female,Orthopedics,Stroke,256709,Improved,No,June
+P0972,2/11/2025,2/24/2025,13,61,Female,Surgery,Malaria,450594,Recovered,Yes,February
+P0973,9/23/2025,10/1/2025,8,23,Female,Emergency,Malaria,139005,Recovered,No,October
+P0974,5/18/2025,5/28/2025,10,52,Male,Orthopedics,Stroke,323628,Recovered,No,May
+P0975,8/20/2025,9/3/2025,14,31,Male,Neurology,Fracture,310107,Recovered,No,September
+P0976,5/11/2025,5/20/2025,9,11,Male,Cardiology,COVID-19,331013,Recovered,No,May
+P0977,1/22/2025,1/30/2025,8,66,Female,Orthopedics,Fracture,275850,Recovered,No,January
+P0978,5/20/2025,5/27/2025,7,4,Male,Emergency,Heart Failure,120643,Recovered,No,May
+P0979,9/14/2025,9/23/2025,9,70,Male,Pediatrics,Diabetes,223005,Recovered,Yes,September
+P0980,7/4/2025,7/5/2025,1,70,Female,Emergency,Stroke,115774,Improved,No,July
+P0981,12/28/2025,1/7/2026,10,18,Female,ICU,Hypertension,668616,Recovered,No,January
+P0982,6/3/2025,6/8/2025,5,45,Male,Surgery,Malaria,422928,Improved,No,June
+P0983,12/1/2025,12/10/2025,9,20,Female,Surgery,Stroke,399829,Improved,No,December
+P0984,9/22/2025,10/2/2025,10,71,Male,Pediatrics,Asthma,214700,Recovered,No,October
+P0985,12/24/2025,12/31/2025,7,27,Male,Neurology,Heart Failure,343196,Recovered,Yes,December
+P0986,1/5/2025,1/13/2025,8,85,Female,Surgery,Kidney Disease,414541,Recovered,Yes,January
+P0987,6/3/2025,6/9/2025,6,76,Female,Cardiology,COVID-19,422938,Recovered,Yes,June
+P0988,11/19/2025,12/2/2025,13,78,Female,Surgery,Diabetes,445219,Recovered,No,December
+P0989,10/1/2025,10/8/2025,7,25,Female,Oncology,Diabetes,513101,Recovered,No,October
+P0990,3/29/2025,3/31/2025,2,87,Female,Orthopedics,Heart Failure,224202,Recovered,Yes,March
+P0991,4/16/2025,4/20/2025,4,38,Male,Pediatrics,Pneumonia,129172,Recovered,No,April
+P0992,6/17/2025,7/1/2025,14,53,Male,Neurology,Asthma,284515,Recovered,No,July
+P0993,4/16/2025,4/19/2025,3,27,Female,Emergency,COVID-19,197203,Recovered,No,April
+P0994,4/14/2025,4/23/2025,9,88,Male,Oncology,Asthma,496437,Recovered,Yes,April
+P0995,11/6/2025,11/19/2025,13,32,Male,Orthopedics,Diabetes,294609,Recovered,No,November
+P0996,5/28/2025,6/8/2025,11,59,Male,Neurology,Asthma,363277,Recovered,No,June
+P0997,5/8/2025,5/11/2025,3,80,Male,Pediatrics,Asthma,180008,Recovered,No,May
+P0998,12/24/2025,12/25/2025,1,31,Male,Surgery,Stroke,390700,Recovered,No,December
+P0999,9/10/2025,9/17/2025,7,71,Female,Cardiology,Asthma,368330,Recovered,Yes,September
+P1000,8/19/2025,8/22/2025,3,33,Female,Emergency,Asthma,95850,Recovered,No,August
